@@ -98874,4 +98874,109 @@
       }
     }
   }
+,
+  "2022_12_17": {
+    "Total flights": 23,
+    "easyJet Europe": {
+      "Total flights": 21,
+      "5123": {
+        "Departure": "06:10",
+        "Destination": "BCN"
+      },
+      "1592": {
+        "Departure": "06:15",
+        "Destination": "GVA"
+      },
+      "5629": {
+        "Departure": "06:30",
+        "Destination": "BSL"
+      },
+      "5801": {
+        "Departure": "06:30",
+        "Destination": "PMI"
+      },
+      "5651": {
+        "Departure": "07:10",
+        "Destination": "CDG"
+      },
+      "5683": {
+        "Departure": "07:30",
+        "Destination": "CPH"
+      },
+      "5101": {
+        "Departure": "07:45",
+        "Destination": "AMS"
+      },
+      "5891": {
+        "Departure": "11:00",
+        "Destination": "AQJ"
+      },
+      "5915": {
+        "Departure": "11:00",
+        "Destination": "TFS"
+      },
+      "5923": {
+        "Departure": "11:00",
+        "Destination": "FUE"
+      },
+      "5821": {
+        "Departure": "11:30",
+        "Destination": "SSH"
+      },
+      "5795": {
+        "Departure": "11:40",
+        "Destination": "SZG"
+      },
+      "4661": {
+        "Departure": "11:55",
+        "Destination": "LIN"
+      },
+      "5787": {
+        "Departure": "12:20",
+        "Destination": "HRG"
+      },
+      "5581": {
+        "Departure": "12:50",
+        "Destination": "FNC"
+      },
+      "5913": {
+        "Departure": "12:55",
+        "Destination": "AGP"
+      },
+      "1594": {
+        "Departure": "13:15",
+        "Destination": "GVA"
+      },
+      "5535": {
+        "Departure": "13:55",
+        "Destination": "ORY"
+      },
+      "5727": {
+        "Departure": "14:00",
+        "Destination": "LCA"
+      },
+      "4579": {
+        "Departure": "17:10",
+        "Destination": "PRN"
+      },
+      "5107": {
+        "Departure": "18:05",
+        "Destination": "AMS"
+      }
+    },
+    "easyJet UK": {
+      "Total flights": 2,
+      "8210": {
+        "Departure": "07:05",
+        "Destination": "LGW"
+      },
+      "1896": {
+        "Departure": "10:50",
+        "Destination": "MAN"
+      }
+    },
+    "easyJet Swiss": {
+      "Total flights": 0
+    }
+  }
 }
