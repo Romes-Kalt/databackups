@@ -59168,4 +59168,126 @@
       "Todesfälle": 168935.0
     }
   }
+,
+  "2023_03_13": {
+    "Baden-Württemberg": {
+      "Anzahl": 5064614.0,
+      "Differenz zum Vortag": 0.0,
+      "Fälle in den letzten 7 Tagen": 4133.0,
+      "7-Tage-Inzidenz": 37.2,
+      "Todesfälle": 19316.0
+    },
+    "Bayern": {
+      "Anzahl": 6742507.0,
+      "Differenz zum Vortag": 0.0,
+      "Fälle in den letzten 7 Tagen": 6616.0,
+      "7-Tage-Inzidenz": 50.2,
+      "Todesfälle": 28699.0
+    },
+    "Berlin": {
+      "Anzahl": 1431066.0,
+      "Differenz zum Vortag": 0.0,
+      "Fälle in den letzten 7 Tagen": 1481.0,
+      "7-Tage-Inzidenz": 40.3,
+      "Todesfälle": 5567.0
+    },
+    "Brandenburg": {
+      "Anzahl": 1114135.0,
+      "Differenz zum Vortag": 0.0,
+      "Fälle in den letzten 7 Tagen": 1115.0,
+      "7-Tage-Inzidenz": 43.9,
+      "Todesfälle": 6507.0
+    },
+    "Bremen": {
+      "Anzahl": 303657.0,
+      "Differenz zum Vortag": 0.0,
+      "Fälle in den letzten 7 Tagen": 327.0,
+      "7-Tage-Inzidenz": 48.3,
+      "Todesfälle": 968.0
+    },
+    "Hamburg": {
+      "Anzahl": 807172.0,
+      "Differenz zum Vortag": 0.0,
+      "Fälle in den letzten 7 Tagen": 451.0,
+      "7-Tage-Inzidenz": 24.3,
+      "Todesfälle": 3623.0
+    },
+    "Hessen": {
+      "Anzahl": 2929110.0,
+      "Differenz zum Vortag": 0.0,
+      "Fälle in den letzten 7 Tagen": 3318.0,
+      "7-Tage-Inzidenz": 52.7,
+      "Todesfälle": 12444.0
+    },
+    "Mecklenburg-\nVorpommern": {
+      "Anzahl": 711735.0,
+      "Differenz zum Vortag": 0.0,
+      "Fälle in den letzten 7 Tagen": 645.0,
+      "7-Tage-Inzidenz": 40.0,
+      "Todesfälle": 2770.0
+    },
+    "Niedersachsen": {
+      "Anzahl": 3861137.0,
+      "Differenz zum Vortag": 0.0,
+      "Fälle in den letzten 7 Tagen": 3412.0,
+      "7-Tage-Inzidenz": 42.5,
+      "Todesfälle": 13728.0
+    },
+    "Nordrhein-Westfalen": {
+      "Anzahl": 8050382.0,
+      "Differenz zum Vortag": 0.0,
+      "Fälle in den letzten 7 Tagen": 10174.0,
+      "7-Tage-Inzidenz": 56.8,
+      "Todesfälle": 31423.0
+    },
+    "Rheinland-Pfalz": {
+      "Anzahl": 1770445.0,
+      "Differenz zum Vortag": 0.0,
+      "Fälle in den letzten 7 Tagen": 2324.0,
+      "7-Tage-Inzidenz": 56.6,
+      "Todesfälle": 6977.0
+    },
+    "Saarland": {
+      "Anzahl": 492957.0,
+      "Differenz zum Vortag": 0.0,
+      "Fälle in den letzten 7 Tagen": 1032.0,
+      "7-Tage-Inzidenz": 105.1,
+      "Todesfälle": 2139.0
+    },
+    "Sachsen": {
+      "Anzahl": 1956111.0,
+      "Differenz zum Vortag": 0.0,
+      "Fälle in den letzten 7 Tagen": 1555.0,
+      "7-Tage-Inzidenz": 38.5,
+      "Todesfälle": 16827.0
+    },
+    "Sachsen-Anhalt": {
+      "Anzahl": 961301.0,
+      "Differenz zum Vortag": 0.0,
+      "Fälle in den letzten 7 Tagen": 1082.0,
+      "7-Tage-Inzidenz": 49.9,
+      "Todesfälle": 6286.0
+    },
+    "Schleswig-Holstein": {
+      "Anzahl": 1175542.0,
+      "Differenz zum Vortag": 0.0,
+      "Fälle in den letzten 7 Tagen": 853.0,
+      "7-Tage-Inzidenz": 29.2,
+      "Todesfälle": 3481.0
+    },
+    "Thüringen": {
+      "Anzahl": 884132.0,
+      "Differenz zum Vortag": 0.0,
+      "Fälle in den letzten 7 Tagen": 1005.0,
+      "7-Tage-Inzidenz": 47.7,
+      "Todesfälle": 8302.0
+    },
+    "Gesamt": {
+      "Anzahl": 38256003.0,
+      "Differenz zum Vortag": 0.0,
+      "Fälle in den letzten 7 Tagen": 39523.0,
+      "7-Tage-Inzidenz": 47.5,
+      "Todesfälle": 169057.0
+    }
+  }
 }
