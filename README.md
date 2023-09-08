@@ -1,4 +1,4 @@
 # databackups
 duh
 and duh!
-Tester für Umläute!
+Tester für Umläuter!
