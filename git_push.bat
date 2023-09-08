@@ -1,9 +1,5 @@
-git add *.json  
+python save_in_utf8.py && echo "CSV resaved to utf8"
+git add .  
 git commit -m "%DATE% %TIME% %1"
-git push && echo "JSONs pushed"
-git config --global i18n.commitEncoding cp1252
-git add *.csv  
-git commit -m "%DATE% %TIME% %1"
-git push && echo "csv pushed"
-git config --global i18n.commitEncoding utf8
+git push
 
