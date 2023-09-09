@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # all_codecs = ['ascii', 'big5', 'big5hkscs', 'cp037', 'cp273', 'cp424', 'cp437', 
 # 'cp500', 'cp720', 'cp737', 'cp775', 'cp850', 'cp852', 'cp855', 'cp856', 'cp857', 
 # 'cp858', 'cp860', 'cp861', 'cp862', 'cp863', 'cp864', 'cp865', 'cp866', 'cp869', 
@@ -15,9 +14,8 @@
 # 'utf_32', 'utf_32_be', 'utf_32_le', 'utf_16', 'utf_16_be', 'utf_16_le', 'utf_7', 
 # 'utf_8', 'utf_8_sig']
 
-=======
->>>>>>> 1e3d7e902fd31b9025c2ba30942d3b2847fb4180
 """Resave file to UTF-8 if necessary."""
+from os import path
 
 def determine_encoding(filepath: str = "") -> str:
     """Return utf8 or cp1252 according to encoding of fp.
