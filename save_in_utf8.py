@@ -86,7 +86,7 @@ def enough_words(
     return False
 
 
-def today_not_run(today_: str = "1981-01-24") -> bool:
+def ran_today(today_: str = "1981-01-24") -> bool:
     """Check in ./last_run.txt, whether today's run completed
 
     Parameters
@@ -99,11 +99,9 @@ def today_not_run(today_: str = "1981-01-24") -> bool:
     bool
         True if today is in ./last_run.txt
     """
-    return True
-    with open ("last_run.txt", "r", encoding="utf-8") as file:
-        print(len(today_), today_, len(file.read()), file.read())
-        return today_ == file.read()
-
+    with open("last_run.txt", "r", encoding="utf-8") as file:
+        x = file.read()
+        return today_ == x
 
 def rewrite_txt_file_utf8(
     filepath: str = "./flight_data.csv", new_fp: str = ""
@@ -137,16 +135,18 @@ def rewrite_txt_file_utf8(
             for _ in old_:
                 file.write(f"{_}\n")
         print(f"{filepath} complete.")
+    with open("last_run.txt", "w", encoding="utf8") as file:
+        file.write(dt.datetime.strftime(dt.datetime.now(), "%Y-%m-%d"))
 
 
 def main():
     """Run main function"""
     today = dt.datetime.strftime(dt.datetime.now(), "%Y-%m-%d")
-    if today_not_run(check = today):
-        rewrite_txt_file_utf8()
-    else:
+    if ran_today(today_=today):
         print(f"UTF-8 check already run for {today}.")
-
+    else:
+        rewrite_txt_file_utf8()
 
 if __name__ == "__main__":
     main()
+
