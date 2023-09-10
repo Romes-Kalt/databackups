@@ -16,6 +16,7 @@
 
 """Resave file to UTF-8 if necessary."""
 from os import path
+import datetime as dt
 
 
 def determine_encoding(filepath: str = "") -> str:
@@ -85,6 +86,25 @@ def enough_words(
     return False
 
 
+def today_not_run(today_: str = "1981-01-24") -> bool:
+    """Check in ./last_run.txt, whether today's run completed
+
+    Parameters
+    ----------
+    today_ : str, optional
+        Date to check, defaults to 1981-01-24
+    
+    Returns
+    -------
+    bool
+        True if today is in ./last_run.txt
+    """
+    return True
+    with open ("last_run.txt", "r", encoding="utf-8") as file:
+        print(len(today_), today_, len(file.read()), file.read())
+        return today_ == file.read()
+
+
 def rewrite_txt_file_utf8(
     filepath: str = "./flight_data.csv", new_fp: str = ""
 ) -> None:
@@ -98,7 +118,7 @@ def rewrite_txt_file_utf8(
         specify if supposed to save tonew file, by default ""
     """
     if determine_encoding(filepath=filepath) == "utf8":
-        if enough_words(what = "chen", target = 14_000, encoding="UTF-8"):
+        if enough_words(what = "München", target = 14_000, encoding="UTF-8"):
             print(f"{filepath} is saved in UTF-8 and more than 14_000 München found.")
             return
         else:
@@ -119,5 +139,14 @@ def rewrite_txt_file_utf8(
         print(f"{filepath} complete.")
 
 
+def main():
+    """Run main function"""
+    today = dt.datetime.strftime(dt.datetime.now(), "%Y-%m-%d")
+    if today_not_run(check = today):
+        rewrite_txt_file_utf8()
+    else:
+        print(f"UTF-8 check already run for {today}.")
+
+
 if __name__ == "__main__":
-    rewrite_txt_file_utf8()
+    main()
