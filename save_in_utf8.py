@@ -17,6 +17,7 @@
 """Resave file to UTF-8 if necessary."""
 from os import path
 
+
 def determine_encoding(filepath: str = "") -> str:
     """Return utf8 or cp1252 according to encoding of fp.
 
@@ -45,6 +46,45 @@ def determine_encoding(filepath: str = "") -> str:
     return "cp1252"
 
 
+def enough_words(
+    filepath: str = "./flight_data.csv",
+    what: str = "München",
+    target: int = 14_000,
+    encoding: str = "UTF-8"
+) -> bool:
+    """check, count how many what are in lines in file and check against target.
+
+    Parameters
+    ----------
+    filepath : str, optional
+        file to check, by default "./flight_data.csv"
+    what : str, optional
+        what to count, by default "München"
+    target : int, optional
+        how many at Minmum, by default 14_000
+    encoding : str, optional
+        encoding of file, by default "UTF-8"
+
+    Returns
+    -------
+    bool
+        True if number of what >= target
+    """
+    try:
+        with open(filepath, "r", encoding=encoding) as file:
+            file_c = file.read().splitlines()
+        muc_count = 0
+        for line in file_c:
+            if what in line:
+                muc_count += 1
+    except UnicodeDecodeError:
+        print("UnicodeDecodeError")
+        return False
+    if muc_count >= target:
+        return True
+    return False
+
+
 def rewrite_txt_file_utf8(
     filepath: str = "./flight_data.csv", new_fp: str = ""
 ) -> None:
@@ -58,8 +98,12 @@ def rewrite_txt_file_utf8(
         specify if supposed to save tonew file, by default ""
     """
     if determine_encoding(filepath=filepath) == "utf8":
-        print(f"{filepath} is saved in UTF-8.")
-        return
+        if enough_words(what = "chen", target = 14_000, encoding="UTF-8"):
+            print(f"{filepath} is saved in UTF-8 and more than 14_000 München found.")
+            return
+        else:
+            print("Encoding is UTF-8, but numbers pf München seems to be to low, please check with source")
+            return
     print(f"{filepath} is saved in cp1252 - resaving in UTF-8 ... to ", end="")
     with open(filepath, "r", encoding="cp1252") as file:
         old_ = file.read().splitlines()
