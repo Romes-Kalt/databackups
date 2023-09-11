@@ -47,12 +47,11 @@ def determine_encoding(filepath: str = "") -> str:
     return "cp1252"
 
 
-def enough_words(
+def count_words(
     filepath: str = "./flight_data.csv",
     what: str = "München",
-    target: int = 14_000,
     encoding: str = "UTF-8"
-) -> bool:
+) -> int:
     """check, count how many what are in lines in file and check against target.
 
     Parameters
@@ -61,38 +60,34 @@ def enough_words(
         file to check, by default "./flight_data.csv"
     what : str, optional
         what to count, by default "München"
-    target : int, optional
-        how many at Minmum, by default 14_000
     encoding : str, optional
         encoding of file, by default "UTF-8"
 
     Returns
     -------
-    bool
-        True if number of what >= target
+    int
+        number of occurences, -1 if UnicodeDecodeError
     """
     try:
         with open(filepath, "r", encoding=encoding) as file:
             file_c = file.read().splitlines()
-        muc_count = 0
+        count = 0
         for line in file_c:
             if what in line:
-                muc_count += 1
+                count += 1
     except UnicodeDecodeError:
         print("UnicodeDecodeError")
-        return False
-    if muc_count >= target:
-        return True
-    return False
+        return -1
+    return count 
 
 
-def ran_today(today_: str = "1981-01-24") -> bool:
+def ran_today(today_: str = dt.datetime.strftime(dt.datetime.now(), "%Y-%m-%d")) -> bool:
     """Check in ./last_run.txt, whether today's run completed
 
     Parameters
     ----------
     today_ : str, optional
-        Date to check, defaults to 1981-01-24
+        Date to check, defaults today, format YYYY-MM-DD
     
     Returns
     -------
@@ -100,8 +95,9 @@ def ran_today(today_: str = "1981-01-24") -> bool:
         True if today is in ./last_run.txt
     """
     with open("last_run.txt", "r", encoding="utf-8") as file:
-        x = file.read()
+        x = file.read().split(",")[0]
         return today_ == x
+
 
 def rewrite_txt_file_utf8(
     filepath: str = "./flight_data.csv", new_fp: str = ""
@@ -116,13 +112,13 @@ def rewrite_txt_file_utf8(
         specify if supposed to save tonew file, by default ""
     """
     if determine_encoding(filepath=filepath) == "utf8":
-        if enough_words(what = "München", target = 14_000, encoding="UTF-8"):
+        if count_words(what = "München", encoding="UTF-8") > 14_000:
             print(f"{filepath} is saved in UTF-8 and more than 14_000 München found.")
             return
         else:
             print("Encoding is UTF-8, but numbers pf München seems to be to low, please check with source")
             return
-    print(f"{filepath} is saved in cp1252 - resaving in UTF-8 ... to ", end="")
+    print(f"{filepath} is saved in cp1252 - resaving in UTF-8 ", end="")
     with open(filepath, "r", encoding="cp1252") as file:
         old_ = file.read().splitlines()
     if new_fp:
@@ -134,16 +130,18 @@ def rewrite_txt_file_utf8(
         with open(filepath, "w", encoding="utf-8") as file:
             for _ in old_:
                 file.write(f"{_}\n")
-        print(f"{filepath} complete.")
+        print("complete.")
     with open("last_run.txt", "w", encoding="utf8") as file:
-        file.write(dt.datetime.strftime(dt.datetime.now(), "%Y-%m-%d"))
+        num_of_muc =  count_words(what = "München", encoding="UTF-8")
+        file.write(dt.datetime.strftime(dt.datetime.now(), "%Y-%m-%d" + "," + str(num_of_muc)))
 
 
 def main():
     """Run main function"""
     today = dt.datetime.strftime(dt.datetime.now(), "%Y-%m-%d")
     if ran_today(today_=today):
-        print(f"UTF-8 check already run for {today}.")
+        num_of_muc = count_words(what = "München", encoding="UTF-8")
+        print(f"UTF-8 check already run for {today} with {num_of_muc} flights to and fro München.")
     else:
         rewrite_txt_file_utf8()
 
