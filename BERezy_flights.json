@@ -2137,4 +2137,82 @@
       "Total flights": 0
     }
   }
+,
+  "2024_01_09": {
+    "Total flights": 9,
+    "easyJet Europe": {
+      "Total flights": 9,
+      "5369": {
+        "Departure": "07:10",
+        "Destination": "HRG"
+      },
+      "5109": {
+        "Departure": "07:15",
+        "Destination": "ACE"
+      },
+      "5365": {
+        "Departure": "08:25",
+        "Destination": "PRN"
+      },
+      "5051": {
+        "Departure": "09:30",
+        "Destination": "NAP"
+      },
+      "5101": {
+        "Departure": "11:20",
+        "Destination": "FUE"
+      },
+      "5111": {
+        "Departure": "11:20",
+        "Destination": "LPA"
+      },
+      "5367": {
+        "Departure": "12:50",
+        "Destination": "LCA"
+      },
+      "5065": {
+        "Departure": "13:25",
+        "Destination": "LIN"
+      },
+      "5105": {
+        "Departure": "14:50",
+        "Destination": "AGP"
+      }
+    },
+    "easyJet UK": {
+      "Total flights": 0
+    },
+    "easyJet Switzerland": {
+      "Total flights": 0
+    }
+  }
+,
+  "2024_01_10": {
+    "Total flights": 4,
+    "easyJet Europe": {
+      "Total flights": 4,
+      "5381": {
+        "Departure": "08:30",
+        "Destination": "SPC"
+      },
+      "5113": {
+        "Departure": "11:00",
+        "Destination": "TFS"
+      },
+      "5333": {
+        "Departure": "12:55",
+        "Destination": "FNC"
+      },
+      "5065": {
+        "Departure": "13:30",
+        "Destination": "LIN"
+      }
+    },
+    "easyJet UK": {
+      "Total flights": 0
+    },
+    "easyJet Switzerland": {
+      "Total flights": 0
+    }
+  }
 }
