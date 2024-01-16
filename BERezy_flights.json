@@ -2612,4 +2612,45 @@
       "Total flights": 0
     }
   }
+,
+  "2024_01_16": {
+    "Total flights": 7,
+    "easyJet Europe": {
+      "Total flights": 7,
+      "5369": {
+        "Departure": "07:10",
+        "Destination": "HRG"
+      },
+      "5365": {
+        "Departure": "08:25",
+        "Destination": "PRN"
+      },
+      "5051": {
+        "Departure": "09:30",
+        "Destination": "NAP"
+      },
+      "5101": {
+        "Departure": "11:20",
+        "Destination": "FUE"
+      },
+      "5111": {
+        "Departure": "11:20",
+        "Destination": "LPA"
+      },
+      "5065": {
+        "Departure": "13:25",
+        "Destination": "LIN"
+      },
+      "5105": {
+        "Departure": "14:50",
+        "Destination": "AGP"
+      }
+    },
+    "easyJet UK": {
+      "Total flights": 0
+    },
+    "easyJet Switzerland": {
+      "Total flights": 0
+    }
+  }
 }
