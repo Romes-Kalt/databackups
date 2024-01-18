@@ -2682,4 +2682,61 @@
       "Total flights": 0
     }
   }
+,
+  "2024_01_18": {
+    "Total flights": 11,
+    "easyJet Europe": {
+      "Total flights": 9,
+      "5101": {
+        "Departure": "07:15",
+        "Destination": "FUE"
+      },
+      "5261": {
+        "Departure": "07:15",
+        "Destination": "CPH"
+      },
+      "5363": {
+        "Departure": "10:05",
+        "Destination": "RMF"
+      },
+      "5115": {
+        "Departure": "11:00",
+        "Destination": "TFS"
+      },
+      "5105": {
+        "Departure": "12:55",
+        "Destination": "AGP"
+      },
+      "5065": {
+        "Departure": "13:30",
+        "Destination": "LIN"
+      },
+      "5121": {
+        "Departure": "13:45",
+        "Destination": "PMI"
+      },
+      "5079": {
+        "Departure": "16:20",
+        "Destination": "FCO"
+      },
+      "8630": {
+        "Departure": "18:15",
+        "Destination": "LGW"
+      }
+    },
+    "easyJet UK": {
+      "Total flights": 1,
+      "3162": {
+        "Departure": "13:20",
+        "Destination": "GLA"
+      }
+    },
+    "easyJet Switzerland": {
+      "Total flights": 1,
+      "1188": {
+        "Departure": "21:05",
+        "Destination": "BSL"
+      }
+    }
+  }
 }
