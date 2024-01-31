@@ -3651,4 +3651,45 @@
       "Total flights": 0
     }
   }
+,
+  "2024_01_31": {
+    "Total flights": 7,
+    "easyJet Europe": {
+      "Total flights": 7,
+      "5381": {
+        "Departure": "08:30",
+        "Destination": "SPC"
+      },
+      "4076": {
+        "Departure": "10:00",
+        "Destination": "VCE"
+      },
+      "5113": {
+        "Departure": "11:00",
+        "Destination": "TFS"
+      },
+      "5333": {
+        "Departure": "12:55",
+        "Destination": "FNC"
+      },
+      "5065": {
+        "Departure": "13:30",
+        "Destination": "LIN"
+      },
+      "5263": {
+        "Departure": "18:30",
+        "Destination": "CPH"
+      },
+      "4876": {
+        "Departure": "20:30",
+        "Destination": "ORY"
+      }
+    },
+    "easyJet UK": {
+      "Total flights": 0
+    },
+    "easyJet Switzerland": {
+      "Total flights": 0
+    }
+  }
 }
