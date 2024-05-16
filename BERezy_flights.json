@@ -18222,4 +18222,193 @@
       }
     }
   }
+,
+  "2024_05_16": {
+    "Total flights": 44,
+    "easyJet Europe": {
+      "Total flights": 38,
+      "5105": {
+        "Departure": "06:00",
+        "Destination": "AGP"
+      },
+      "5051": {
+        "Departure": "06:05",
+        "Destination": "NAP"
+      },
+      "8624": {
+        "Departure": "06:05",
+        "Destination": "LGW"
+      },
+      "5103": {
+        "Departure": "07:00",
+        "Destination": "VLC"
+      },
+      "5189": {
+        "Departure": "07:00",
+        "Destination": "ZRH"
+      },
+      "5261": {
+        "Departure": "07:00",
+        "Destination": "CPH"
+      },
+      "5281": {
+        "Departure": "07:00",
+        "Destination": "AMS"
+      },
+      "5333": {
+        "Departure": "07:00",
+        "Destination": "FNC"
+      },
+      "5077": {
+        "Departure": "07:15",
+        "Destination": "CTA"
+      },
+      "4076": {
+        "Departure": "08:20",
+        "Destination": "VCE"
+      },
+      "5063": {
+        "Departure": "08:20",
+        "Destination": "LIN"
+      },
+      "5143": {
+        "Departure": "09:20",
+        "Destination": "NCE"
+      },
+      "4898": {
+        "Departure": "09:40",
+        "Destination": "ORY"
+      },
+      "4632": {
+        "Departure": "09:55",
+        "Destination": "CDG"
+      },
+      "5029": {
+        "Departure": "10:25",
+        "Destination": "SKG"
+      },
+      "7334": {
+        "Departure": "10:30",
+        "Destination": "PMI"
+      },
+      "5365": {
+        "Departure": "11:15",
+        "Destination": "PRN"
+      },
+      "4992": {
+        "Departure": "12:00",
+        "Destination": "TLS"
+      },
+      "5215": {
+        "Departure": "12:05",
+        "Destination": "SPU"
+      },
+      "5367": {
+        "Departure": "12:05",
+        "Destination": "LCA"
+      },
+      "5265": {
+        "Departure": "12:45",
+        "Destination": "CPH"
+      },
+      "5185": {
+        "Departure": "13:25",
+        "Destination": "BSL"
+      },
+      "5187": {
+        "Departure": "14:15",
+        "Destination": "ZRH"
+      },
+      "5071": {
+        "Departure": "14:25",
+        "Destination": "LIN"
+      },
+      "5053": {
+        "Departure": "14:40",
+        "Destination": "NAP"
+      },
+      "5005": {
+        "Departure": "14:55",
+        "Destination": "CFU"
+      },
+      "7173": {
+        "Departure": "15:05",
+        "Destination": "BCN"
+      },
+      "5121": {
+        "Departure": "16:05",
+        "Destination": "PMI"
+      },
+      "5153": {
+        "Departure": "17:05",
+        "Destination": "ORY"
+      },
+      "5141": {
+        "Departure": "17:30",
+        "Destination": "BOD"
+      },
+      "5055": {
+        "Departure": "17:35",
+        "Destination": "OLB"
+      },
+      "5079": {
+        "Departure": "17:40",
+        "Destination": "FCO"
+      },
+      "8626": {
+        "Departure": "18:10",
+        "Destination": "LGW"
+      },
+      "5183": {
+        "Departure": "18:35",
+        "Destination": "GVA"
+      },
+      "5287": {
+        "Departure": "19:30",
+        "Destination": "AMS"
+      },
+      "5267": {
+        "Departure": "20:10",
+        "Destination": "CPH"
+      },
+      "4634": {
+        "Departure": "21:10",
+        "Destination": "CDG"
+      },
+      "5073": {
+        "Departure": "21:10",
+        "Destination": "LIN"
+      }
+    },
+    "easyJet UK": {
+      "Total flights": 4,
+      "8630": {
+        "Departure": "10:20",
+        "Destination": "LGW"
+      },
+      "3262": {
+        "Departure": "16:45",
+        "Destination": "EDI"
+      },
+      "2934": {
+        "Departure": "18:35",
+        "Destination": "BRS"
+      },
+      "2200": {
+        "Departure": "21:10",
+        "Destination": "MAN"
+      }
+    },
+    "easyJet Switzerland": {
+      "Total flights": 2,
+      "1590": {
+        "Departure": "08:25",
+        "Destination": "GVA"
+      },
+      "1190": {
+        "Departure": "22:00",
+        "Destination": "BSL"
+      }
+    }
+  }
 }
