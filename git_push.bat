@@ -6,5 +6,5 @@ git add .
 git commit -m "%DATE% %TIME% %1"
 git push
 echo "flight_data.csv zail -20"
-tail -20 flight_data.csv
+tail -10 flight_data.csv
 cat last_run.txt
