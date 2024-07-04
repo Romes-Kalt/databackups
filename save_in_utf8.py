@@ -112,11 +112,11 @@ def rewrite_txt_file_utf8(
         specify if supposed to save tonew file, by default ""
     """
     if determine_encoding(filepath=filepath) == "utf8":
-        if count_words(what = "München", encoding="UTF-8") > 14_000:
-            print(f"{filepath} is saved in UTF-8 and more than 14_000 München found.")
+        if count_words(what = "München", encoding="UTF-8") > 20_000:
+            print(f"{filepath} is saved in UTF-8 and more than 20_000 occurences of München found.")
             return
         else:
-            print("Encoding is UTF-8, but numbers pf München seems to be to low, please check with source")
+            print("Encoding is UTF-8, but numbers of occurences of München seems to be to low, please check with source")
             return
     print(f"{filepath} is saved in cp1252 - resaving in UTF-8 ", end="")
     with open(filepath, "r", encoding="cp1252") as file:
