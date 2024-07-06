@@ -1,0 +1,551 @@
+2024_07_05,20240705EW 8590,DEP,EW 8590,05:25 Uhr,departed,on time,PMI,EW,Palma de Mallorca,Eurowings,---,Fri
+2024_07_05,20240705EW 8540,DEP,EW 8540,05:40 Uhr,departed,on time,IBZ,EW,Ibiza,Eurowings,---,Fri
+2024_07_05,20240705EJU5105,DEP,EJU5105,06:00 Uhr,departed,on time,AGP,EJU,Malaga,easyJet Europe,---,Fri
+2024_07_05,20240705FR 162,DEP,FR 162,06:00 Uhr,departed,on time,BRU,FR,Brüssel,Ryanair,---,Fri
+2024_07_05,20240705FR 353,DEP,FR 353,06:00 Uhr,departed,on time,PFO,FR,Paphos,Ryanair,---,Fri
+2024_07_05,20240705FR 1144,DEP,FR 1144,06:00 Uhr,departed,on time,MAN,FR,Manchester,Ryanair,---,Fri
+2024_07_05,20240705KL 1770,DEP,KL 1770,06:00 Uhr,departed,on time,AMS,KL,Amsterdam,KLM Royal Dutch Airlines,---,Fri
+2024_07_05,20240705SR 7358,DEP,SR 7358,06:00 Uhr,departed,on time,BOJ,SDR,Burgas,SUNDAIR,---,Fri
+2024_07_05,20240705TP 535,DEP,TP 535,06:00 Uhr,departed,on time,LIS,TP,Lissabon,TAP Air Portugal,---,Fri
+2024_07_05,20240705FR 1142,DEP,FR 1142,06:05 Uhr,departed,on time,LIS,FR,Lissabon,Ryanair,---,Fri
+2024_07_05,20240705FR 3309,DEP,FR 3309,06:05 Uhr,departed,on time,BRI,FR,Bari,Ryanair,---,Fri
+2024_07_05,20240705EJU5185,DEP,EJU5185,06:10 Uhr,departed,on time,BSL,EJU,Basel,easyJet Europe,---,Fri
+2024_07_05,20240705EJU5331,DEP,EJU5331,06:10 Uhr,departed,on time,OPO,EJU,Porto,easyJet Europe,---,Fri
+2024_07_05,20240705EJU5361,DEP,EJU5361,06:10 Uhr,departed,06:20 Uhr,TIV,EJU,Tivat,easyJet Europe,---,Fri
+2024_07_05,20240705AF 1135,DEP,AF 1135,06:15 Uhr,departed,on time,CDG,AF,Paris CDG,Air France,---,Fri
+2024_07_05,20240705FR 401,DEP,FR 401,06:20 Uhr,departed,on time,VCE,FR,Venedig,Ryanair,---,Fri
+2024_07_05,20240705LH 1961,DEP,LH 1961,06:20 Uhr,departed,on time,MUC,LH,München,Lufthansa,---,Fri
+2024_07_05,20240705FR 144,DEP,FR 144,06:25 Uhr,departed,on time,STN,FR,London STN,Ryanair,---,Fri
+2024_07_05,20240705TO 3413,DEP,TO 3413,06:30 Uhr,departed,on time,ORY,TO,Paris Orly,Transavia France,---,Fri
+2024_07_05,20240705EW 8672,DEP,EW 8672,06:40 Uhr,departed,on time,RHO,EW,Rhodos,Eurowings,---,Fri
+2024_07_05,20240705LH 173,DEP,LH 173,06:45 Uhr,departed,on time,FRA,LH,Frankfurt,Lufthansa,---,Fri
+2024_07_05,20240705BA 8490,DEP,BA 8490,06:55 Uhr,departed,on time,LCY,BA,London City Airport,British Airways,---,Fri
+2024_07_05,20240705EJU5027,DEP,EJU5027,06:55 Uhr,departed,on time,SKG,EJU,Thessaloniki,easyJet Europe,---,Fri
+2024_07_05,20240705SN 2592,DEP,SN 2592,06:55 Uhr,departed,on time,BRU,SN,Brüssel,Brussels Airlines,---,Fri
+2024_07_05,20240705TK 1728,DEP,TK 1728,06:55 Uhr,departed,on time,IST,TK,Istanbul Airport,Turkish Airlines,---,Fri
+2024_07_05,20240705EJU5261,DEP,EJU5261,07:00 Uhr,departed,07:10 Uhr,CPH,EJU,Kopenhagen,easyJet Europe,---,Fri
+2024_07_05,20240705EJU8622,DEP,EJU8622,07:00 Uhr,departed,on time,LGW,EJU,London LGW,easyJet Europe,---,Fri
+2024_07_05,20240705FR 2920,DEP,FR 2920,07:00 Uhr,departed,07:20 Uhr,ZAD,FR,Zadar,Ryanair,---,Fri
+2024_07_05,20240705OS 240,DEP,OS 240,07:00 Uhr,departed,on time,VIE,OS,Wien,Austrian Airlines,---,Fri
+2024_07_05,20240705I2 3673,DEP,I2 3673,07:05 Uhr,departed,on time,MAD,IBS,Madrid,IBERIA Express,---,Fri
+2024_07_05,20240705BA 981,DEP,BA 981,07:10 Uhr,departed,on time,LHR,BA,London LHR,British Airways,---,Fri
+2024_07_05,20240705LX 963,DEP,LX 963,07:10 Uhr,departed,on time,ZRH,LX,Zürich,Swiss,---,Fri
+2024_07_05,20240705EJU5313,DEP,EJU5313,07:15 Uhr,departed,on time,EDI,EJU,Edinburgh,easyJet Europe,---,Fri
+2024_07_05,20240705LH 045,DEP,LH 045,07:15 Uhr,departed,on time,FRA,LH,Frankfurt,Lufthansa,---,Fri
+2024_07_05,20240705LH 1963,DEP,LH 1963,07:20 Uhr,departed,07:30 Uhr,MUC,LH,München,Lufthansa,---,Fri
+2024_07_05,20240705XQ 967,DEP,XQ 967,07:20 Uhr,departed,07:40 Uhr,ADB,XQ,Izmir ADB,Sun Express,---,Fri
+2024_07_05,20240705SR 4450,DEP,SR 4450,07:40 Uhr,departed,on time,HER,SDR,Heraklion,SUNDAIR,---,Fri
+2024_07_05,20240705EW 8750,DEP,EW 8750,07:45 Uhr,departed,on time,VIE,EW,Wien,Eurowings,---,Fri
+2024_07_05,20240705EW 8760,DEP,EW 8760,07:45 Uhr,departed,on time,ZRH,EW,Zürich,Eurowings,---,Fri
+2024_07_05,20240705LH 175,DEP,LH 175,07:45 Uhr,departed,on time,FRA,LH,Frankfurt,Lufthansa,---,Fri
+2024_07_05,20240705EW 5382,DEP,EW 5382,07:55 Uhr,departed,on time,HER,EW,Heraklion,Eurowings,---,Fri
+2024_07_05,20240705XQ 665,DEP,XQ 665,07:55 Uhr,departed,on time,AYT,XQ,Antalya,Sun Express,---,Fri
+2024_07_05,20240705EJU5189,DEP,EJU5189,08:00 Uhr,departed,on time,ZRH,EJU,Zürich,easyJet Europe,---,Fri
+2024_07_05,20240705EW 2003,DEP,EW 2003,08:00 Uhr,departed,08:15 Uhr,STR,EW,Stuttgart,Eurowings,LH5386,Fri
+2024_07_05,20240705FR 196,DEP,FR 196,08:00 Uhr,departed,on time,BUD,FR,Budapest,Ryanair,---,Fri
+2024_07_05,20240705LO 392,DEP,LO 392,08:00 Uhr,departed,on time,WAW,LO,Warschau,LOT Polish Airlines,---,Fri
+2024_07_05,20240705LH 179,DEP,LH 179,08:15 Uhr,departed,08:30 Uhr,FRA,LH,Frankfurt,Lufthansa,---,Fri
+2024_07_05,20240705EJU5063,DEP,EJU5063,08:20 Uhr,departed,on time,LIN,EJU,Mailand LIN,easyJet Europe,---,Fri
+2024_07_05,20240705EW 013,DEP,EW 013,08:25 Uhr,departed,on time,CGN,EW,Köln/Bonn,Eurowings,---,Fri
+2024_07_05,20240705EW 9049,DEP,EW 9049,08:30 Uhr,departed,on time,DUS,EW,Düsseldorf,Eurowings,---,Fri
+2024_07_05,20240705AY 1432,DEP,AY 1432,08:50 Uhr,departed,on time,HEL,AY,Helsinki,Finnair,---,Fri
+2024_07_05,20240705LH 1929,DEP,LH 1929,08:50 Uhr,departed,on time,MUC,LH,München,Lufthansa,---,Fri
+2024_07_05,20240705FR 8840,DEP,FR 8840,08:55 Uhr,departed,on time,SOF,FR,Sofia,Ryanair,---,Fri
+2024_07_05,20240705EW 2005,DEP,EW 2005,09:00 Uhr,departed,on time,STR,EW,Stuttgart,Eurowings,LH5388,Fri
+2024_07_05,20240705OS 224,DEP,OS 224,09:00 Uhr,departed,on time,VIE,OS,Wien,Austrian Airlines,---,Fri
+2024_07_05,20240705KL 1772,DEP,KL 1772,09:05 Uhr,departed,on time,AMS,KL,Amsterdam,KLM Royal Dutch Airlines,---,Fri
+2024_07_05,20240705DY 1101,DEP,DY 1101,09:15 Uhr,departed,09:25 Uhr,OSL,DY,Oslo,Norwegian Air Shuttle AOC,---,Fri
+2024_07_05,20240705W6 7910,DEP,W6 7910,09:15 Uhr,departed,09:50 Uhr,KUT,W6,Kutaisi,Wizz Air,---,Fri
+2024_07_05,20240705EJU5141,DEP,EJU5141,09:20 Uhr,departed,on time,BOD,EJU,Bordeaux Merignac,easyJet Europe,---,Fri
+2024_07_05,20240705W6 2316,DEP,W6 2316,09:30 Uhr,departed,09:45 Uhr,BUD,W6,Budapest,Wizz Air,---,Fri
+2024_07_05,20240705AF 1435,DEP,AF 1435,09:35 Uhr,departed,on time,CDG,AF,Paris CDG,Air France,---,Fri
+2024_07_05,20240705FR 314,DEP,FR 314,09:40 Uhr,departed,on time,OTP,FR,Bukarest,Ryanair,---,Fri
+2024_07_05,20240705LX 975,DEP,LX 975,09:40 Uhr,departed,on time,ZRH,LX,Zürich,Swiss,---,Fri
+2024_07_05,20240705QR 080,DEP,QR 080,09:40 Uhr,departed,on time,DOH,QR,Doha,Qatar Airways,---,Fri
+2024_07_05,20240705LH 181,DEP,LH 181,09:45 Uhr,departed,on time,FRA,LH,Frankfurt,Lufthansa,---,Fri
+2024_07_05,20240705LH 1931,DEP,LH 1931,09:50 Uhr,departed,on time,MUC,LH,München,Lufthansa,---,Fri
+2024_07_05,20240705UA 963,DEP,UA 963,09:50 Uhr,departed,on time,EWR,UA,New York EWR,United Airlines,---,Fri
+2024_07_05,20240705SK 1674,DEP,SK 1674,10:05 Uhr,departed,on time,CPH,SK,Kopenhagen,SAS-Scandinavian Airlines System,---,Fri
+2024_07_05,20240705DL 093,DEP,DL 093,10:20 Uhr,departed,on time,JFK,DL,New York JFK,Delta Air Lines,---,Fri
+2024_07_05,20240705EJU5143,DEP,EJU5143,10:20 Uhr,departed,on time,NCE,EJU,Nizza,easyJet Europe,---,Fri
+2024_07_05,20240705EZY8630,DEP,EZY8630,10:20 Uhr,departed,on time,LGW,U2,London LGW,easyJet UK,---,Fri
+2024_07_05,20240705XQ 647,DEP,XQ 647,10:25 Uhr,departed,on time,BJV,XQ,Bodrum Milas,Sun Express,---,Fri
+2024_07_05,20240705EJU5077,DEP,EJU5077,10:30 Uhr,departed,12:01 Uhr,CTA,EJU,Catania,easyJet Europe,---,Fri
+2024_07_05,20240705EI 333,DEP,EI 333,10:40 Uhr,cancelled, --:-- Uhr,DUB,EI,Dublin,Aer Lingus,---,Fri
+2024_07_05,20240705EZY6622,DEP,EZY6622,10:40 Uhr,departed,on time,BHX,U2,Birmingham,easyJet UK,---,Fri
+2024_07_05,20240705VY 1883,DEP,VY 1883,10:40 Uhr,departed,on time,BCN,VY,Barcelona,Vueling Airlines,---,Fri
+2024_07_05,20240705LH 183,DEP,LH 183,10:45 Uhr,departed,on time,FRA,LH,Frankfurt,Lufthansa,---,Fri
+2024_07_05,20240705TK 1722,DEP,TK 1722,10:45 Uhr,departed,on time,IST,TK,Istanbul Airport,Turkish Airlines,---,Fri
+2024_07_05,20240705DX 124,DEP,DX 124,10:50 Uhr,departed,on time,SCN,DX,Saarbrücken,Danish Air Transport,---,Fri
+2024_07_05,20240705FR 1578,DEP,FR 1578,10:50 Uhr,departed,on time,TGD,FR,Podgorica,Ryanair,---,Fri
+2024_07_05,20240705LH 1935,DEP,LH 1935,10:50 Uhr,departed,on time,MUC,LH,München,Lufthansa,---,Fri
+2024_07_05,20240705LX 977,DEP,LX 977,10:55 Uhr,departed,on time,ZRH,LX,Zürich,Swiss,---,Fri
+2024_07_05,20240705LY 2372,DEP,LY 2372,10:55 Uhr,departed,on time,TLV,LY,Tel Aviv,EL AL - Israel Airlines,---,Fri
+2024_07_05,20240705FR 1146,DEP,FR 1146,11:00 Uhr,departed,on time,SKG,FR,Thessaloniki,Ryanair,---,Fri
+2024_07_05,20240705FR 2599,DEP,FR 2599,11:05 Uhr,departed,on time,RIX,FR,Riga,Ryanair,---,Fri
+2024_07_05,20240705BA 991,DEP,BA 991,11:10 Uhr,departed,on time,LHR,BA,London LHR,British Airways,---,Fri
+2024_07_05,20240705FR 216,DEP,FR 216,11:10 Uhr,departed,on time,PMI,FR,Palma de Mallorca,Ryanair,---,Fri
+2024_07_05,20240705LO 388,DEP,LO 388,11:10 Uhr,cancelled, --:-- Uhr,WAW,LO,Warschau,LOT Polish Airlines,---,Fri
+2024_07_05,20240705FR 008,DEP,FR 008,11:15 Uhr,departed,on time,MXP,FR,Mailand MXP,Ryanair,---,Fri
+2024_07_05,20240705OS 226,DEP,OS 226,11:15 Uhr,departed,on time,VIE,OS,Wien,Austrian Airlines,---,Fri
+2024_07_05,20240705EW 6893,DEP,EW 6893,11:20 Uhr,departed,on time,PMI,EW,Palma de Mallorca,Eurowings,---,Fri
+2024_07_05,20240705PC 5068,DEP,PC 5068,11:20 Uhr,departed,12:20 Uhr,AYT,PC,Antalya,Pegasus Airlines,---,Fri
+2024_07_05,20240705I2 3677,DEP,I2 3677,11:25 Uhr,departed,on time,MAD,IBS,Madrid,IBERIA Express,---,Fri
+2024_07_05,20240705A3 821,DEP,A3 821,11:30 Uhr,departed,on time,ATH,A3,Athen,Aegean Airlines,---,Fri
+2024_07_05,20240705FR 5474,DEP,FR 5474,11:35 Uhr,departed,on time,RAK,FR,Marrakesch,Ryanair,---,Fri
+2024_07_05,20240705TR 721,DEP,TR 721,11:35 Uhr,departed,on time,SIN,TR,Singapur,Scoot,---,Fri
+2024_07_05,20240705SN 2582,DEP,SN 2582,11:40 Uhr,departed,on time,BRU,SN,Brüssel,Brussels Airlines,---,Fri
+2024_07_05,20240705BA 8492,DEP,BA 8492,11:45 Uhr,departed,on time,LCY,BA,London City Airport,British Airways,---,Fri
+2024_07_05,20240705LH 185,DEP,LH 185,11:45 Uhr,departed,on time,FRA,LH,Frankfurt,Lufthansa,---,Fri
+2024_07_05,20240705FR 146,DEP,FR 146,11:50 Uhr,departed,on time,STN,FR,London STN,Ryanair,---,Fri
+2024_07_05,20240705BQ 1951,DEP,BQ 1951,11:55 Uhr,departed,on time,BZO,BQ,Bozen,Sky Alps,---,Fri
+2024_07_05,20240705FR 208,DEP,FR 208,11:55 Uhr,departed,on time,IBZ,FR,Ibiza,Ryanair,---,Fri
+2024_07_05,20240705BJ 249,DEP,BJ 249,12:00 Uhr,departed,on time,MIR,BJ,Monastir,Nouvelair Tunisie,---,Fri
+2024_07_05,20240705AF 1735,DEP,AF 1735,12:10 Uhr,departed,on time,CDG,AF,Paris CDG,Air France,---,Fri
+2024_07_05,20240705EJU5213,DEP,EJU5213,12:10 Uhr,departed,on time,SPU,EJU,Split,easyJet Europe,---,Fri
+2024_07_05,20240705EW 8426,DEP,EW 8426,12:10 Uhr,departed,on time,NCE,EW,Nizza,Eurowings,---,Fri
+2024_07_05,20240705FR 170,DEP,FR 170,12:10 Uhr,departed,on time,ATH,FR,Athen,Ryanair,---,Fri
+2024_07_05,20240705EJU5055,DEP,EJU5055,12:15 Uhr,departed,on time,OLB,EJU,Olbia,easyJet Europe,---,Fri
+2024_07_05,20240705KL 1776,DEP,KL 1776,12:15 Uhr,departed,on time,AMS,KL,Amsterdam,KLM Royal Dutch Airlines,---,Fri
+2024_07_05,20240705OG 701,DEP,OG 701,12:20 Uhr,departed,on time,KEF,OG,Reykjavik,PLAY,---,Fri
+2024_07_05,20240705VF 058,DEP,VF 058,12:20 Uhr,departed,on time,SAW,VF,Istanbul SAW,Ajet,---,Fri
+2024_07_05,20240705FR 030,DEP,FR 030,12:25 Uhr,departed,on time,HER,FR,Heraklion,Ryanair,---,Fri
+2024_07_05,20240705XQ 161,DEP,XQ 161,12:25 Uhr,departed,on time,AYT,XQ,Antalya,Sun Express,---,Fri
+2024_07_05,20240705EW 8230,DEP,EW 8230,12:30 Uhr,departed,on time,HEL,EW,Helsinki,Eurowings,---,Fri
+2024_07_05,20240705FR 110,DEP,FR 110,12:35 Uhr,departed,on time,PMI,FR,Palma de Mallorca,Ryanair,---,Fri
+2024_07_05,20240705EW 8580,DEP,EW 8580,12:40 Uhr,departed,on time,PMI,EW,Palma de Mallorca,Eurowings,---,Fri
+2024_07_05,20240705EJU5285,DEP,EJU5285,12:50 Uhr,departed,14:35 Uhr,AMS,EJU,Amsterdam,easyJet Europe,---,Fri
+2024_07_05,20240705FR 040,DEP,FR 040,12:50 Uhr,departed,on time,FCO,FR,Rom FCO,Ryanair,---,Fri
+2024_07_05,20240705LH 1927,DEP,LH 1927,12:50 Uhr,departed,on time,MUC,LH,München,Lufthansa,---,Fri
+2024_07_05,20240705EJU5053,DEP,EJU5053,13:00 Uhr,departed,on time,NAP,EJU,Neapel,easyJet Europe,---,Fri
+2024_07_05,20240705FR 132,DEP,FR 132,13:00 Uhr,departed,on time,BCN,FR,Barcelona,Ryanair,---,Fri
+2024_07_05,20240705SR 150,DEP,SR 150,13:00 Uhr,departed,on time,BEY,SDR,Beirut,SUNDAIR,---,Fri
+2024_07_05,20240705AY 1434,DEP,AY 1434,13:10 Uhr,departed,on time,HEL,AY,Helsinki,Finnair,---,Fri
+2024_07_05,20240705TP 531,DEP,TP 531,13:10 Uhr,departed,on time,LIS,TP,Lissabon,TAP Air Portugal,---,Fri
+2024_07_05,20240705PC 980,DEP,PC 980,13:15 Uhr,departed,14:15 Uhr,SAW,PC,Istanbul SAW,Pegasus Airlines,---,Fri
+2024_07_05,20240705TK 1730,DEP,TK 1730,13:15 Uhr,departed,13:30 Uhr,IST,TK,Istanbul Airport,Turkish Airlines,---,Fri
+2024_07_05,20240705FR 3388,DEP,FR 3388,13:20 Uhr,departed,on time,MRS,FR,Marseille,Ryanair,---,Fri
+2024_07_05,20240705BA 7026,DEP,BA 7026,13:30 Uhr,departed,on time,LCY,BA,London City Airport,British Airways,---,Fri
+2024_07_05,20240705EJU5009,DEP,EJU5009,13:35 Uhr,departed,on time,CHQ,EJU,Chania,easyJet Europe,---,Fri
+2024_07_05,20240705EW 015,DEP,EW 015,13:35 Uhr,departed,on time,CGN,EW,Köln/Bonn,Eurowings,---,Fri
+2024_07_05,20240705LH 189,DEP,LH 189,13:45 Uhr,departed,on time,FRA,LH,Frankfurt,Lufthansa,---,Fri
+2024_07_05,20240705LH 1939,DEP,LH 1939,13:50 Uhr,departed,on time,MUC,LH,München,Lufthansa,---,Fri
+2024_07_05,20240705HU 490,DEP,HU 490,13:55 Uhr,departed,on time,PEK,HU,Peking,Hainan Airlines,---,Fri
+2024_07_05,20240705EW 8044,DEP,EW 8044,14:00 Uhr,departed,on time,DUS,EW,Düsseldorf,Eurowings,---,Fri
+2024_07_05,20240705EJU5079,DEP,EJU5079,14:05 Uhr,departed,14:06 Uhr,FCO,EJU,Rom FCO,easyJet Europe,---,Fri
+2024_07_05,20240705EW 8536,DEP,EW 8536,14:05 Uhr,departed,14:20 Uhr,AGP,EW,Malaga,Eurowings,---,Fri
+2024_07_05,20240705FI 529,DEP,FI 529,14:05 Uhr,departed,on time,KEF,FI,Reykjavik,Icelandair,---,Fri
+2024_07_05,20240705BA 993,DEP,BA 993,14:10 Uhr,departed,on time,LHR,BA,London LHR,British Airways,---,Fri
+2024_07_05,20240705SK 2678,DEP,SK 2678,14:15 Uhr,departed,on time,ARN,SK,Stockholm ARN,SAS-Scandinavian Airlines System,---,Fri
+2024_07_05,20240705EW 8346,DEP,EW 8346,14:20 Uhr,departed,on time,GRZ,EW,Graz,Eurowings,---,Fri
+2024_07_05,20240705EJU5071,DEP,EJU5071,14:25 Uhr,departed,on time,LIN,EJU,Mailand LIN,easyJet Europe,---,Fri
+2024_07_05,20240705EJU5215,DEP,EJU5215,14:25 Uhr,departed,14:26 Uhr,SPU,EJU,Split,easyJet Europe,---,Fri
+2024_07_05,20240705FR 351,DEP,FR 351,14:30 Uhr,departed,on time,RHO,FR,Rhodos,Ryanair,---,Fri
+2024_07_05,20240705KL 1778,DEP,KL 1778,14:30 Uhr,departed,14:40 Uhr,AMS,KL,Amsterdam,KLM Royal Dutch Airlines,---,Fri
+2024_07_05,20240705FR 3464,DEP,FR 3464,14:35 Uhr,cancelled, --:-- Uhr,VCE,FR,Venedig,Ryanair,---,Fri
+2024_07_05,20240705XQ 947,DEP,XQ 947,14:40 Uhr,departed,on time,ADB,XQ,Izmir ADB,Sun Express,---,Fri
+2024_07_05,20240705LH 191,DEP,LH 191,14:45 Uhr,departed,on time,FRA,LH,Frankfurt,Lufthansa,---,Fri
+2024_07_05,20240705SR 4852,DEP,SR 4852,14:45 Uhr,departed,on time,RHO,SDR,Rhodos,SUNDAIR,---,Fri
+2024_07_05,202407055F 612,DEP,5F 612,14:50 Uhr,departed,15:30 Uhr,RMO,FIA,Chisinau,FlyOne,---,Fri
+2024_07_05,20240705FR 3670,DEP,FR 3670,14:50 Uhr,departed,on time,DUB,FR,Dublin,Ryanair,---,Fri
+2024_07_05,20240705LX 967,DEP,LX 967,14:55 Uhr,departed,15:40 Uhr,ZRH,LX,Zürich,Swiss,---,Fri
+2024_07_05,20240705SK 1678,DEP,SK 1678,15:05 Uhr,departed,15:15 Uhr,CPH,SK,Kopenhagen,SAS-Scandinavian Airlines System,---,Fri
+2024_07_05,20240705OS 230,DEP,OS 230,15:10 Uhr,departed,15:25 Uhr,VIE,OS,Wien,Austrian Airlines,---,Fri
+2024_07_05,20240705TK 1726,DEP,TK 1726,15:10 Uhr,departed,16:50 Uhr,IST,TK,Istanbul Airport,Turkish Airlines,---,Fri
+2024_07_05,20240705EJU7173,DEP,EJU7173,15:15 Uhr,departed,on time,BCN,EJU,Barcelona,easyJet Europe,---,Fri
+2024_07_05,20240705FR 136,DEP,FR 136,15:20 Uhr,departed,15:45 Uhr,BLQ,FR,Bologna,Ryanair,---,Fri
+2024_07_05,20240705EW 2009,DEP,EW 2009,15:30 Uhr,departed,16:25 Uhr,STR,EW,Stuttgart,Eurowings,LH5390,Fri
+2024_07_05,20240705AF 1235,DEP,AF 1235,15:40 Uhr,departed,on time,CDG,AF,Paris CDG,Air France,---,Fri
+2024_07_05,20240705BT 822,DEP,BT 822,15:40 Uhr,departed,15:50 Uhr,TLL,BT,Tallinn,Air Baltic,TP6441 A33234,Fri
+2024_07_05,20240705VY 1887,DEP,VY 1887,15:40 Uhr,departed,on time,BCN,VY,Barcelona,Vueling Airlines,---,Fri
+2024_07_05,20240705LX 969,DEP,LX 969,15:45 Uhr,departed,16:05 Uhr,ZRH,LX,Zürich,Swiss,---,Fri
+2024_07_05,20240705EJU5145,DEP,EJU5145,15:50 Uhr,departed,15:53 Uhr,NCE,EJU,Nizza,easyJet Europe,---,Fri
+2024_07_05,20240705LH 1943,DEP,LH 1943,15:50 Uhr,departed,17:45 Uhr,MUC,LH,München,Lufthansa,---,Fri
+2024_07_05,20240705D8 4506,DEP,D8 4506,15:55 Uhr,departed,17:00 Uhr,ARN,D8,Stockholm ARN,Norwegian Air Sweden AOC,---,Fri
+2024_07_05,20240705TO 3411,DEP,TO 3411,15:55 Uhr,departed,16:25 Uhr,NTE,TO,Nantes,Transavia France,---,Fri
+2024_07_05,20240705XC 3558,DEP,XC 3558,15:55 Uhr,departed,on time,ADB,CAI,Izmir ADB,Corendon Airlines,---,Fri
+2024_07_05,20240705EW 8070,DEP,EW 8070,16:00 Uhr,departed,17:00 Uhr,CGN,EW,Köln/Bonn,Eurowings,---,Fri
+2024_07_05,20240705QR 082,DEP,QR 082,16:00 Uhr,departed,on time,DOH,QR,Doha,Qatar Airways,---,Fri
+2024_07_05,20240705EJU5121,DEP,EJU5121,16:05 Uhr,departed,on time,PMI,EJU,Palma de Mallorca,easyJet Europe,---,Fri
+2024_07_05,20240705FR 138,DEP,FR 138,16:05 Uhr,departed,on time,VLC,FR,Valencia,Ryanair,---,Fri
+2024_07_05,20240705FR 148,DEP,FR 148,16:10 Uhr,departed,on time,BCN,FR,Barcelona,Ryanair,---,Fri
+2024_07_05,20240705MS 732,DEP,MS 732,16:10 Uhr,departed,16:50 Uhr,CAI,MS,Kairo,Egypt Air,---,Fri
+2024_07_05,20240705FR 1576,DEP,FR 1576,16:15 Uhr,departed,on time,CTA,FR,Catania,Ryanair,---,Fri
+2024_07_05,20240705EW 8670,DEP,EW 8670,16:20 Uhr,departed,on time,KGS,EW,Kos,Eurowings,A33967,Fri
+2024_07_05,20240705EW 9043,DEP,EW 9043,16:20 Uhr,departed,on time,DUS,EW,Düsseldorf,Eurowings,---,Fri
+2024_07_05,20240705PC 978,DEP,PC 978,16:30 Uhr,departed,19:45 Uhr,SAW,PC,Istanbul SAW,Pegasus Airlines,---,Fri
+2024_07_05,20240705EZY2934,DEP,EZY2934,16:35 Uhr,departed,16:45 Uhr,BRS,U2,Bristol,easyJet UK,---,Fri
+2024_07_05,20240705FB 320,DEP,FB 320,16:35 Uhr,departed,17:15 Uhr,SOF,FB,Sofia,Bulgaria Air,---,Fri
+2024_07_05,20240705BA 8494,DEP,BA 8494,16:50 Uhr,departed,on time,LCY,BA,London City Airport,British Airways,---,Fri
+2024_07_05,20240705LH 1945,DEP,LH 1945,16:50 Uhr,departed,17:50 Uhr,MUC,LH,München,Lufthansa,---,Fri
+2024_07_05,20240705BA 985,DEP,BA 985,16:55 Uhr,departed,17:25 Uhr,LHR,BA,London LHR,British Airways,---,Fri
+2024_07_05,20240705FR 226,DEP,FR 226,17:00 Uhr,departed,on time,PMI,FR,Palma de Mallorca,Ryanair,---,Fri
+2024_07_05,20240705OS 232,DEP,OS 232,17:00 Uhr,cancelled, --:-- Uhr,VIE,OS,Wien,Austrian Airlines,---,Fri
+2024_07_05,20240705EW 8004,DEP,EW 8004,17:15 Uhr,departed,on time,STR,EW,Stuttgart,Eurowings,LH5396,Fri
+2024_07_05,20240705TP 533,DEP,TP 533,17:15 Uhr,departed,on time,LIS,TP,Lissabon,TAP Air Portugal,---,Fri
+2024_07_05,20240705EJU5211,DEP,EJU5211,17:25 Uhr,departed,18:30 Uhr,PUY,EJU,Pula,easyJet Europe,---,Fri
+2024_07_05,20240705XQ 661,DEP,XQ 661,17:25 Uhr,departed,17:45 Uhr,AYT,XQ,Antalya,Sun Express,---,Fri
+2024_07_05,20240705KL 1780,DEP,KL 1780,17:30 Uhr,departed,on time,AMS,KL,Amsterdam,KLM Royal Dutch Airlines,---,Fri
+2024_07_05,20240705FR 9956,DEP,FR 9956,17:35 Uhr,departed,on time,PSA,FR,Pisa,Ryanair,---,Fri
+2024_07_05,20240705A3 513,DEP,A3 513,17:40 Uhr,departed,on time,SKG,A3,Thessaloniki,Aegean Airlines,---,Fri
+2024_07_05,20240705TO 3407,DEP,TO 3407,17:40 Uhr,departed,on time,ORY,TO,Paris Orly,Transavia France,---,Fri
+2024_07_05,20240705EZY3262,DEP,EZY3262,17:45 Uhr,departed,18:00 Uhr,EDI,U2,Edinburgh,easyJet UK,---,Fri
+2024_07_05,20240705LH 197,DEP,LH 197,17:45 Uhr,departed,on time,FRA,LH,Frankfurt,Lufthansa,---,Fri
+2024_07_05,20240705D8 3303,DEP,D8 3303,17:50 Uhr,departed,on time,CPH,D8,Kopenhagen,Norwegian Air Sweden AOC,---,Fri
+2024_07_05,20240705LH 1947,DEP,LH 1947,17:50 Uhr,departed,on time,MUC,LH,München,Lufthansa,---,Fri
+2024_07_05,20240705EJU8626,DEP,EJU8626,17:55 Uhr,departed,18:05 Uhr,LGW,EJU,London LGW,easyJet Europe,---,Fri
+2024_07_05,20240705EW 007,DEP,EW 007,17:55 Uhr,departed,on time,CGN,EW,Köln/Bonn,Eurowings,---,Fri
+2024_07_05,20240705EZY3162,DEP,EZY3162,17:55 Uhr,departed,19:10 Uhr,GLA,U2,Glasgow,easyJet UK,---,Fri
+2024_07_05,20240705EW 8006,DEP,EW 8006,18:00 Uhr,departed,on time,STR,EW,Stuttgart,Eurowings,LH5398,Fri
+2024_07_05,20240705EW 8762,DEP,EW 8762,18:00 Uhr,departed,on time,ZRH,EW,Zürich,Eurowings,---,Fri
+2024_07_05,20240705FH 1282,DEP,FH 1282,18:00 Uhr,departed,on time,AYT,FHY,Antalya,Freebird Airlines,---,Fri
+2024_07_05,20240705FR 140,DEP,FR 140,18:00 Uhr,departed,on time,FCO,FR,Rom FCO,Ryanair,---,Fri
+2024_07_05,20240705AF 1835,DEP,AF 1835,18:05 Uhr,departed,18:53 Uhr,CDG,AF,Paris CDG,Air France,---,Fri
+2024_07_05,20240705AY 1438,DEP,AY 1438,18:05 Uhr,departed,on time,HEL,AY,Helsinki,Finnair,---,Fri
+2024_07_05,20240705EJU5153,DEP,EJU5153,18:05 Uhr,departed,on time,ORY,EJU,Paris Orly,easyJet Europe,---,Fri
+2024_07_05,20240705EW 8752,DEP,EW 8752,18:05 Uhr,departed,on time,VIE,EW,Wien,Eurowings,---,Fri
+2024_07_05,20240705FR 2946,DEP,FR 2946,18:20 Uhr,departed,on time,OPO,FR,Porto,Ryanair,---,Fri
+2024_07_05,20240705FR 1154,DEP,FR 1154,18:30 Uhr,departed,on time,MAN,FR,Manchester,Ryanair,---,Fri
+2024_07_05,20240705FR 3311,DEP,FR 3311,18:30 Uhr,departed,on time,BGY,FR,Mailand BGY,Ryanair,---,Fri
+2024_07_05,20240705EJU5085,DEP,EJU5085,18:35 Uhr,departed,18:50 Uhr,VCE,EJU,Venedig,easyJet Europe,---,Fri
+2024_07_05,20240705EJU5183,DEP,EJU5183,18:35 Uhr,departed,19:01 Uhr,GVA,EJU,Genf,easyJet Europe,---,Fri
+2024_07_05,20240705OS 234,DEP,OS 234,18:35 Uhr,departed,on time,VIE,OS,Wien,Austrian Airlines,---,Fri
+2024_07_05,20240705BJ 233,DEP,BJ 233,18:45 Uhr,departed,19:20 Uhr,TUN,BJ,Tunis,Nouvelair Tunisie,---,Fri
+2024_07_05,20240705LH 199,DEP,LH 199,18:45 Uhr,departed,on time,FRA,LH,Frankfurt,Lufthansa,---,Fri
+2024_07_05,20240705LX 971,DEP,LX 971,18:45 Uhr,departed,on time,ZRH,LX,Zürich,Swiss,---,Fri
+2024_07_05,20240705SN 2588,DEP,SN 2588,18:45 Uhr,departed,on time,BRU,SN,Brüssel,Brussels Airlines,---,Fri
+2024_07_05,20240705FR 2732,DEP,FR 2732,18:50 Uhr,departed,on time,TLL,FR,Tallinn,Ryanair,---,Fri
+2024_07_05,20240705KL 1782,DEP,KL 1782,18:50 Uhr,departed,on time,AMS,KL,Amsterdam,KLM Royal Dutch Airlines,---,Fri
+2024_07_05,20240705PC 5008,DEP,PC 5008,18:50 Uhr,departed,20:15 Uhr,AYT,PC,Antalya,Pegasus Airlines,---,Fri
+2024_07_05,20240705VF 510,DEP,VF 510,18:50 Uhr,departed,on time,ESB,VF,Ankara ESB,Ajet,---,Fri
+2024_07_05,20240705EW 4343,DEP,EW 4343,18:55 Uhr,departed,on time,SZG,EW,Salzburg,Eurowings,---,Fri
+2024_07_05,20240705LO 390,DEP,LO 390,19:00 Uhr,departed,19:37 Uhr,WAW,LO,Warschau,LOT Polish Airlines,---,Fri
+2024_07_05,20240705AF 1535,DEP,AF 1535,19:05 Uhr,departed,on time,CDG,AF,Paris CDG,Air France,---,Fri
+2024_07_05,20240705FR 177,DEP,FR 177,19:05 Uhr,departed,on time,STN,FR,London STN,Ryanair,---,Fri
+2024_07_05,20240705EJU5187,DEP,EJU5187,19:10 Uhr,departed,19:20 Uhr,ZRH,EJU,Zürich,easyJet Europe,---,Fri
+2024_07_05,20240705TK 1724,DEP,TK 1724,19:10 Uhr,departed,19:50 Uhr,IST,TK,Istanbul Airport,Turkish Airlines,---,Fri
+2024_07_05,20240705N0 601,DEP,N0 601,19:20 Uhr,departed,20:05 Uhr,JFK,N0,New York JFK,Norse Atlantic Airways,---,Fri
+2024_07_05,20240705EW 8220,DEP,EW 8220,19:25 Uhr,departed,19:45 Uhr,GOT,EW,Göteborg GOT,Eurowings,---,Fri
+2024_07_05,20240705EW 9041,DEP,EW 9041,19:25 Uhr,departed,on time,DUS,EW,Düsseldorf,Eurowings,---,Fri
+2024_07_05,20240705EJU5287,DEP,EJU5287,19:30 Uhr,departed,19:31 Uhr,AMS,EJU,Amsterdam,easyJet Europe,---,Fri
+2024_07_05,20240705FR 2535,DEP,FR 2535,19:35 Uhr,departed,on time,KRK,FR,Krakau,Ryanair,---,Fri
+2024_07_05,20240705BT 214,DEP,BT 214,19:40 Uhr,departed,on time,RIX,BT,Riga,Air Baltic,TP6401,Fri
+2024_07_05,20240705EJU5267,DEP,EJU5267,19:40 Uhr,departed,on time,CPH,EJU,Kopenhagen,easyJet Europe,---,Fri
+2024_07_05,20240705FR 3305,DEP,FR 3305,19:40 Uhr,departed,on time,BUD,FR,Budapest,Ryanair,---,Fri
+2024_07_05,20240705AY 1436,DEP,AY 1436,19:45 Uhr,departed,on time,HEL,AY,Helsinki,Finnair,---,Fri
+2024_07_05,20240705EW 2021,DEP,EW 2021,19:45 Uhr,departed,20:05 Uhr,STR,EW,Stuttgart,Eurowings,---,Fri
+2024_07_05,20240705LH 201,DEP,LH 201,19:45 Uhr,departed,19:45 Uhr,FRA,LH,Frankfurt,Lufthansa,---,Fri
+2024_07_05,20240705LX 983,DEP,LX 983,19:45 Uhr,departed,19:55 Uhr,ZRH,LX,Zürich,Swiss,---,Fri
+2024_07_05,20240705OS 236,DEP,OS 236,19:45 Uhr,departed,on time,VIE,OS,Wien,Austrian Airlines,---,Fri
+2024_07_05,20240705DX 126,DEP,DX 126,19:50 Uhr,departed,on time,SCN,DX,Saarbrücken,Danish Air Transport,---,Fri
+2024_07_05,20240705I2 3671,DEP,I2 3671,19:50 Uhr,departed,on time,MAD,IBS,Madrid,IBERIA Express,---,Fri
+2024_07_05,20240705LH 1953,DEP,LH 1953,19:50 Uhr,cancelled, --:-- Uhr,MUC,LH,München,Lufthansa,---,Fri
+2024_07_05,20240705JU 357,DEP,JU 357,19:55 Uhr,departed,20:20 Uhr,BEG,JU,Belgrad,Air Serbia,---,Fri
+2024_07_05,20240705DY 1109,DEP,DY 1109,20:15 Uhr,departed,20:45 Uhr,OSL,DY,Oslo,Norwegian Air Shuttle AOC,---,Fri
+2024_07_05,20240705OU 4409,DEP,OU 4409,20:20 Uhr,departed,21:15 Uhr,ZAG,OU,Zagreb,Croatia Airlines,---,Fri
+2024_07_05,20240705A3 823,DEP,A3 823,20:25 Uhr,departed,20:50 Uhr,ATH,A3,Athen,Aegean Airlines,---,Fri
+2024_07_05,20240705EJU7336,DEP,EJU7336,20:30 Uhr,departed,21:07 Uhr,PMI,EJU,Palma de Mallorca,easyJet Europe,---,Fri
+2024_07_05,20240705LX 979,DEP,LX 979,20:30 Uhr,cancelled, --:-- Uhr,ZRH,LX,Zürich,Swiss,---,Fri
+2024_07_05,20240705SM 2961,DEP,SM 2961,20:30 Uhr,departed,20:40 Uhr,HRG,SM,Hurghada,Air Cairo,---,Fri
+2024_07_05,20240705FR 2527,DEP,FR 2527,20:45 Uhr,departed,on time,MAD,FR,Madrid,Ryanair,---,Fri
+2024_07_05,20240705FR 5419,DEP,FR 5419,20:45 Uhr,departed,on time,DUB,FR,Dublin,Ryanair,---,Fri
+2024_07_05,20240705EJU4634,DEP,EJU4634,20:50 Uhr,departed,21:26 Uhr,CDG,EJU,Paris CDG,easyJet Europe,---,Fri
+2024_07_05,20240705BA 987,DEP,BA 987,21:00 Uhr,departed,on time,LHR,BA,London LHR,British Airways,---,Fri
+2024_07_05,20240705OS 238,DEP,OS 238,21:00 Uhr,departed,on time,VIE,OS,Wien,Austrian Airlines,---,Fri
+2024_07_05,20240705DY 1121,DEP,DY 1121,21:10 Uhr,departed,on time,TRD,DY,Trondheim,Norwegian Air Shuttle AOC,---,Fri
+2024_07_05,20240705EJU5073,DEP,EJU5073,21:10 Uhr,departed,21:25 Uhr,LIN,EJU,Mailand LIN,easyJet Europe,---,Fri
+2024_07_05,20240705FR 134,DEP,FR 134,21:10 Uhr,departed,21:55 Uhr,FCO,FR,Rom FCO,Ryanair,---,Fri
+2024_07_05,20240705LG 9474,DEP,LG 9474,21:10 Uhr,departed,21:32 Uhr,LUX,LG,Luxemburg,Luxair,---,Fri
+2024_07_05,20240705XQ 663,DEP,XQ 663,21:15 Uhr,departed,on time,AYT,XQ,Antalya,Sun Express,---,Fri
+2024_07_05,20240705FR 257,DEP,FR 257,21:20 Uhr,departed,22:10 Uhr,ALC,FR,Alicante,Ryanair,---,Fri
+2024_07_05,20240705EW 4609,DEP,EW 4609,21:30 Uhr,departed,21:45 Uhr,ARN,EW,Stockholm ARN,Eurowings,LH5342,Fri
+2024_07_05,20240705EZY2604,DEP,EZY2604,21:30 Uhr,departed,on time,LTN,U2,London LTN,easyJet UK,---,Fri
+2024_07_05,20240705FR 1570,DEP,FR 1570,21:35 Uhr,departed,on time,VNO,FR,Vilnius,Ryanair,---,Fri
+2024_07_05,20240705SK 2680,DEP,SK 2680,21:40 Uhr,departed,on time,ARN,SK,Stockholm ARN,SAS-Scandinavian Airlines System,---,Fri
+2024_07_05,20240705EI 337,DEP,EI 337,21:45 Uhr,departed,on time,DUB,EI,Dublin,Aer Lingus,---,Fri
+2024_07_05,20240705XQ 1765,DEP,XQ 1765,21:45 Uhr,departed,22:00 Uhr,ESB,XQ,Ankara ESB,Sun Express,---,Fri
+2024_07_05,20240705W4 6072,DEP,W4 6072,21:55 Uhr,departed,on time,FCO,W4,Rom FCO,Wizz Air Malta,---,Fri
+2024_07_05,20240705VY 1885,DEP,VY 1885,22:00 Uhr,departed,on time,BCN,VY,Barcelona,Vueling Airlines,---,Fri
+2024_07_05,20240705W4 5106,DEP,W4 5106,22:00 Uhr,departed,23:15 Uhr,TIA,W4,Tirana,Wizz Air Malta,---,Fri
+2024_07_05,20240705FR 264,DEP,FR 264,22:10 Uhr,departed,on time,PMI,FR,Palma de Mallorca,Ryanair,---,Fri
+2024_07_05,20240705D8 3305,DEP,D8 3305,22:15 Uhr,departed,22:45 Uhr,CPH,D8,Kopenhagen,Norwegian Air Sweden AOC,---,Fri
+2024_07_05,20240705FR 2377,DEP,FR 2377,22:25 Uhr,departed,on time,EDI,FR,Edinburgh,Ryanair,---,Fri
+2024_07_05,20240705EZY2202,DEP,EZY2202,22:30 Uhr,departed,22:45 Uhr,MAN,U2,Manchester,easyJet UK,---,Fri
+2024_07_05,20240705EW 8994,DEP,EW 8994,23:00 Uhr,departed,23:15 Uhr,EVN,EW,Yerevan,Eurowings,---,Fri
+2024_07_05,20240705XQ 966,ARR,XQ 966,06:30 Uhr,arrived,06:27 Uhr,ADB,XQ,Izmir ADB,Sun Express,---,Fri
+2024_07_05,20240705HU 489,ARR,HU 489,06:45 Uhr,arrived,06:36 Uhr,PEK,HU,Peking,Hainan Airlines,---,Fri
+2024_07_05,20240705XQ 1766,ARR,XQ 1766,06:45 Uhr,arrived,06:55 Uhr,GZT,XQ,Gaziantep,Sun Express,---,Fri
+2024_07_05,20240705UA 962,ARR,UA 962,07:15 Uhr,arrived,06:17 Uhr,EWR,UA,New York EWR,United Airlines,---,Fri
+2024_07_05,20240705QR 079,ARR,QR 079,07:20 Uhr,arrived,07:21 Uhr,DOH,QR,Doha,Qatar Airways,---,Fri
+2024_07_05,20240705EW 2002,ARR,EW 2002,07:25 Uhr,arrived,07:29 Uhr,STR,EW,Stuttgart,Eurowings,LH5385,Fri
+2024_07_05,20240705LH 172,ARR,LH 172,07:25 Uhr,arrived,07:50 Uhr,FRA,LH,Frankfurt,Lufthansa,---,Fri
+2024_07_05,20240705DL 092,ARR,DL 092,07:50 Uhr,arrived,06:52 Uhr,JFK,DL,New York JFK,Delta Air Lines,---,Fri
+2024_07_05,20240705EW 012,ARR,EW 012,07:50 Uhr,arrived,07:31 Uhr,CGN,EW,Köln/Bonn,Eurowings,---,Fri
+2024_07_05,20240705EW 9048,ARR,EW 9048,07:55 Uhr,arrived,07:42 Uhr,DUS,EW,Düsseldorf,Eurowings,---,Fri
+2024_07_05,20240705AY 1431,ARR,AY 1431,08:05 Uhr,arrived,07:46 Uhr,HEL,AY,Helsinki,Finnair,---,Fri
+2024_07_05,20240705LH 1928,ARR,LH 1928,08:05 Uhr,arrived,07:55 Uhr,MUC,LH,München,Lufthansa,---,Fri
+2024_07_05,20240705OS 223,ARR,OS 223,08:10 Uhr,arrived,08:13 Uhr,VIE,OS,Wien,Austrian Airlines,---,Fri
+2024_07_05,20240705EW 2004,ARR,EW 2004,08:20 Uhr,arrived,08:16 Uhr,STR,EW,Stuttgart,Eurowings,LH5387,Fri
+2024_07_05,20240705KL 1771,ARR,KL 1771,08:20 Uhr,arrived,08:10 Uhr,AMS,KL,Amsterdam,KLM Royal Dutch Airlines,---,Fri
+2024_07_05,20240705FR 8841,ARR,FR 8841,08:30 Uhr,arrived,08:26 Uhr,SOF,FR,Sofia,Ryanair,---,Fri
+2024_07_05,20240705W6 7909,ARR,W6 7909,08:30 Uhr,arrived,08:20 Uhr,KUT,W6,Kutaisi,Wizz Air,---,Fri
+2024_07_05,20240705DY 1100,ARR,DY 1100,08:35 Uhr,arrived,08:40 Uhr,OSL,DY,Oslo,Norwegian Air Shuttle AOC,---,Fri
+2024_07_05,20240705EJU5068,ARR,EJU5068,08:35 Uhr,arrived,08:15 Uhr,LIN,EJU,Mailand LIN,easyJet Europe,---,Fri
+2024_07_05,20240705AF 1434,ARR,AF 1434,08:40 Uhr,arrived,08:27 Uhr,CDG,AF,Paris CDG,Air France,---,Fri
+2024_07_05,20240705LX 974,ARR,LX 974,08:45 Uhr,arrived,08:51 Uhr,ZRH,LX,Zürich,Swiss,---,Fri
+2024_07_05,20240705LH 174,ARR,LH 174,08:55 Uhr,arrived,08:43 Uhr,FRA,LH,Frankfurt,Lufthansa,---,Fri
+2024_07_05,20240705W6 2315,ARR,W6 2315,08:55 Uhr,arrived,08:45 Uhr,BUD,W6,Budapest,Wizz Air,---,Fri
+2024_07_05,20240705LH 1930,ARR,LH 1930,09:05 Uhr,arrived,09:00 Uhr,MUC,LH,München,Lufthansa,---,Fri
+2024_07_05,20240705FR 163,ARR,FR 163,09:15 Uhr,arrived,09:09 Uhr,BRU,FR,Brüssel,Ryanair,---,Fri
+2024_07_05,20240705TK 1721,ARR,TK 1721,09:20 Uhr,arrived,09:20 Uhr,IST,TK,Istanbul Airport,Turkish Airlines,---,Fri
+2024_07_05,20240705SK 1673,ARR,SK 1673,09:25 Uhr,arrived,09:13 Uhr,CPH,SK,Kopenhagen,SAS-Scandinavian Airlines System,---,Fri
+2024_07_05,20240705XQ 646,ARR,XQ 646,09:25 Uhr,arrived,09:50 Uhr,BJV,XQ,Bodrum Milas,Sun Express,---,Fri
+2024_07_05,20240705EZY8629,ARR,EZY8629,09:35 Uhr,arrived,09:03 Uhr,LGW,U2,London LGW,easyJet UK,---,Fri
+2024_07_05,20240705EJU5186,ARR,EJU5186,09:40 Uhr,arrived,09:22 Uhr,BSL,EJU,Basel,easyJet Europe,---,Fri
+2024_07_05,20240705LY 2371,ARR,LY 2371,09:40 Uhr,arrived,09:42 Uhr,TLV,LY,Tel Aviv,EL AL - Israel Airlines,---,Fri
+2024_07_05,20240705EJU5262,ARR,EJU5262,09:45 Uhr,arrived,09:35 Uhr,CPH,EJU,Kopenhagen,easyJet Europe,---,Fri
+2024_07_05,20240705LH 176,ARR,LH 176,09:55 Uhr,arrived,09:45 Uhr,FRA,LH,Frankfurt,Lufthansa,---,Fri
+2024_07_05,20240705EI 332,ARR,EI 332,10:00 Uhr,cancelled, --:-- Uhr,DUB,EI,Dublin,Aer Lingus,---,Fri
+2024_07_05,20240705EZY6621,ARR,EZY6621,10:00 Uhr,arrived,09:47 Uhr,BHX,U2,Birmingham,easyJet UK,---,Fri
+2024_07_05,20240705VY 1882,ARR,VY 1882,10:00 Uhr,arrived,09:31 Uhr,BCN,VY,Barcelona,Vueling Airlines,---,Fri
+2024_07_05,20240705LH 1934,ARR,LH 1934,10:05 Uhr,arrived,10:06 Uhr,MUC,LH,München,Lufthansa,---,Fri
+2024_07_05,20240705LX 976,ARR,LX 976,10:05 Uhr,arrived,09:53 Uhr,ZRH,LX,Zürich,Swiss,---,Fri
+2024_07_05,20240705FR 402,ARR,FR 402,10:10 Uhr,arrived,09:59 Uhr,VCE,FR,Venedig,Ryanair,---,Fri
+2024_07_05,20240705BA 990,ARR,BA 990,10:15 Uhr,arrived,10:02 Uhr,LHR,BA,London LHR,British Airways,---,Fri
+2024_07_05,20240705DX 123,ARR,DX 123,10:15 Uhr,arrived,09:56 Uhr,SCN,DX,Saarbrücken,Danish Air Transport,---,Fri
+2024_07_05,20240705EW 6892,ARR,EW 6892,10:25 Uhr,arrived,10:13 Uhr,PMI,EW,Palma de Mallorca,Eurowings,---,Fri
+2024_07_05,20240705FR 145,ARR,FR 145,10:25 Uhr,arrived,10:51 Uhr,STN,FR,London STN,Ryanair,---,Fri
+2024_07_05,20240705OS 225,ARR,OS 225,10:25 Uhr,arrived,10:21 Uhr,VIE,OS,Wien,Austrian Airlines,---,Fri
+2024_07_05,20240705LO 387,ARR,LO 387,10:30 Uhr,cancelled, --:-- Uhr,WAW,LO,Warschau,LOT Polish Airlines,---,Fri
+2024_07_05,20240705PC 5067,ARR,PC 5067,10:30 Uhr,arrived,11:42 Uhr,AYT,PC,Antalya,Pegasus Airlines,---,Fri
+2024_07_05,20240705FR 1147,ARR,FR 1147,10:35 Uhr,arrived,10:36 Uhr,SKG,FR,Thessaloniki,Ryanair,---,Fri
+2024_07_05,20240705I2 3676,ARR,I2 3676,10:35 Uhr,arrived,10:09 Uhr,MAD,IBS,Madrid,IBERIA Express,---,Fri
+2024_07_05,20240705TR 720,ARR,TR 720,10:35 Uhr,arrived,10:14 Uhr,SIN,TR,Singapur,Scoot,---,Fri
+2024_07_05,20240705A3 820,ARR,A3 820,10:40 Uhr,arrived,10:50 Uhr,ATH,A3,Athen,Aegean Airlines,---,Fri
+2024_07_05,20240705FR 2600,ARR,FR 2600,10:40 Uhr,arrived,10:16 Uhr,RIX,FR,Riga,Ryanair,---,Fri
+2024_07_05,20240705FR 1145,ARR,FR 1145,10:45 Uhr,arrived,10:22 Uhr,MAN,FR,Manchester,Ryanair,---,Fri
+2024_07_05,20240705FR 2919,ARR,FR 2919,10:45 Uhr,arrived,10:59 Uhr,ZAD,FR,Zadar,Ryanair,---,Fri
+2024_07_05,20240705FR 3310,ARR,FR 3310,10:50 Uhr,arrived,10:47 Uhr,BRI,FR,Bari,Ryanair,---,Fri
+2024_07_05,20240705SN 2581,ARR,SN 2581,10:50 Uhr,arrived,10:55 Uhr,BRU,SN,Brüssel,Brussels Airlines,---,Fri
+2024_07_05,20240705LH 178,ARR,LH 178,10:55 Uhr,arrived,10:53 Uhr,FRA,LH,Frankfurt,Lufthansa,---,Fri
+2024_07_05,20240705BJ 248,ARR,BJ 248,11:00 Uhr,arrived,10:45 Uhr,MIR,BJ,Monastir,Nouvelair Tunisie,---,Fri
+2024_07_05,20240705BA 8491,ARR,BA 8491,11:10 Uhr,arrived,10:57 Uhr,LCY,BA,London City Airport,British Airways,---,Fri
+2024_07_05,20240705BQ 1950,ARR,BQ 1950,11:10 Uhr,arrived,11:06 Uhr,BZO,BQ,Bozen,Sky Alps,---,Fri
+2024_07_05,20240705EJU5362,ARR,EJU5362,11:10 Uhr,arrived,11:01 Uhr,TIV,EJU,Tivat,easyJet Europe,---,Fri
+2024_07_05,20240705FR 5475,ARR,FR 5475,11:10 Uhr,arrived,10:49 Uhr,RAK,FR,Marrakesch,Ryanair,---,Fri
+2024_07_05,20240705AF 1734,ARR,AF 1734,11:15 Uhr,arrived,10:56 Uhr,CDG,AF,Paris CDG,Air France,---,Fri
+2024_07_05,20240705EW 8751,ARR,EW 8751,11:15 Uhr,arrived,11:03 Uhr,VIE,EW,Wien,Eurowings,---,Fri
+2024_07_05,20240705FR 197,ARR,FR 197,11:20 Uhr,arrived,11:16 Uhr,BUD,FR,Budapest,Ryanair,---,Fri
+2024_07_05,20240705VF 057,ARR,VF 057,11:20 Uhr,arrived,11:48 Uhr,SAW,VF,Istanbul SAW,Ajet,---,Fri
+2024_07_05,20240705EW 8761,ARR,EW 8761,11:30 Uhr,arrived,11:15 Uhr,ZRH,EW,Zürich,Eurowings,---,Fri
+2024_07_05,20240705KL 1775,ARR,KL 1775,11:30 Uhr,arrived,11:20 Uhr,AMS,KL,Amsterdam,KLM Royal Dutch Airlines,---,Fri
+2024_07_05,20240705OG 700,ARR,OG 700,11:30 Uhr,arrived,11:19 Uhr,KEF,OG,Reykjavik,PLAY,---,Fri
+2024_07_05,20240705EJU5190,ARR,EJU5190,11:35 Uhr,arrived,11:23 Uhr,ZRH,EJU,Zürich,easyJet Europe,---,Fri
+2024_07_05,20240705EW 8591,ARR,EW 8591,11:35 Uhr,arrived,11:28 Uhr,PMI,EW,Palma de Mallorca,Eurowings,---,Fri
+2024_07_05,20240705XQ 160,ARR,XQ 160,11:35 Uhr,arrived,12:30 Uhr,AYT,XQ,Antalya,Sun Express,---,Fri
+2024_07_05,20240705EJU8623,ARR,EJU8623,11:40 Uhr,arrived,11:58 Uhr,LGW,EJU,London LGW,easyJet Europe,---,Fri
+2024_07_05,20240705FR 171,ARR,FR 171,11:45 Uhr,arrived,11:56 Uhr,ATH,FR,Athen,Ryanair,---,Fri
+2024_07_05,20240705TK 1729,ARR,TK 1729,11:45 Uhr,arrived,12:06 Uhr,IST,TK,Istanbul Airport,Turkish Airlines,---,Fri
+2024_07_05,20240705LH 1926,ARR,LH 1926,12:05 Uhr,arrived,12:00 Uhr,MUC,LH,München,Lufthansa,---,Fri
+2024_07_05,20240705SR 7359,ARR,SR 7359,12:05 Uhr,arrived,11:38 Uhr,BOJ,SDR,Burgas,SUNDAIR,---,Fri
+2024_07_05,20240705FR 111,ARR,FR 111,12:10 Uhr,arrived,12:10 Uhr,PMI,FR,Palma de Mallorca,Ryanair,---,Fri
+2024_07_05,20240705PC 979,ARR,PC 979,12:10 Uhr,arrived,12:56 Uhr,SAW,PC,Istanbul SAW,Pegasus Airlines,---,Fri
+2024_07_05,20240705EJU5314,ARR,EJU5314,12:15 Uhr,arrived,13:28 Uhr,EDI,EJU,Edinburgh,easyJet Europe,---,Fri
+2024_07_05,20240705AY 1433,ARR,AY 1433,12:25 Uhr,arrived,12:08 Uhr,HEL,AY,Helsinki,Finnair,---,Fri
+2024_07_05,20240705EW 8541,ARR,EW 8541,12:25 Uhr,arrived,12:01 Uhr,IBZ,EW,Ibiza,Eurowings,---,Fri
+2024_07_05,20240705FR 041,ARR,FR 041,12:25 Uhr,arrived,12:55 Uhr,FCO,FR,Rom FCO,Ryanair,---,Fri
+2024_07_05,20240705TP 530,ARR,TP 530,12:25 Uhr,arrived,12:19 Uhr,LIS,TP,Lissabon,TAP Air Portugal,---,Fri
+2024_07_05,20240705EJU5028,ARR,EJU5028,12:30 Uhr,arrived,12:28 Uhr,SKG,EJU,Thessaloniki,easyJet Europe,---,Fri
+2024_07_05,20240705FR 133,ARR,FR 133,12:35 Uhr,arrived,12:22 Uhr,BCN,FR,Barcelona,Ryanair,---,Fri
+2024_07_05,20240705EJU5064,ARR,EJU5064,12:40 Uhr,arrived,12:23 Uhr,LIN,EJU,Mailand LIN,easyJet Europe,---,Fri
+2024_07_05,20240705BA 7027,ARR,BA 7027,12:45 Uhr,arrived,12:33 Uhr,LCY,BA,London City Airport,British Airways,---,Fri
+2024_07_05,20240705FR 3389,ARR,FR 3389,12:55 Uhr,arrived,13:01 Uhr,MRS,FR,Marseille,Ryanair,---,Fri
+2024_07_05,20240705LH 182,ARR,LH 182,12:55 Uhr,arrived,12:42 Uhr,FRA,LH,Frankfurt,Lufthansa,---,Fri
+2024_07_05,20240705EW 014,ARR,EW 014,13:00 Uhr,arrived,12:54 Uhr,CGN,EW,Köln/Bonn,Eurowings,---,Fri
+2024_07_05,20240705LH 1938,ARR,LH 1938,13:05 Uhr,arrived,13:08 Uhr,MUC,LH,München,Lufthansa,---,Fri
+2024_07_05,20240705FI 528,ARR,FI 528,13:10 Uhr,arrived,12:50 Uhr,KEF,FI,Reykjavik,Icelandair,---,Fri
+2024_07_05,20240705EW 8537,ARR,EW 8537,13:15 Uhr,arrived,13:39 Uhr,AGP,EW,Malaga,Eurowings,---,Fri
+2024_07_05,20240705EJU5332,ARR,EJU5332,13:20 Uhr,arrived,13:07 Uhr,OPO,EJU,Porto,easyJet Europe,---,Fri
+2024_07_05,20240705BA 992,ARR,BA 992,13:25 Uhr,arrived,13:31 Uhr,LHR,BA,London LHR,British Airways,---,Fri
+2024_07_05,20240705N0 602,ARR,N0 602,13:35 Uhr,arrived,12:58 Uhr,JFK,N0,New York JFK,Norse Atlantic Airways,---,Fri
+2024_07_05,20240705SK 2677,ARR,SK 2677,13:35 Uhr,arrived,13:34 Uhr,ARN,SK,Stockholm ARN,SAS-Scandinavian Airlines System,---,Fri
+2024_07_05,20240705EW 8347,ARR,EW 8347,13:40 Uhr,arrived,13:19 Uhr,GRZ,EW,Graz,Eurowings,---,Fri
+2024_07_05,20240705FR 1143,ARR,FR 1143,13:40 Uhr,arrived,13:43 Uhr,LIS,FR,Lissabon,Ryanair,---,Fri
+2024_07_05,20240705XQ 946,ARR,XQ 946,13:40 Uhr,arrived,13:58 Uhr,ADB,XQ,Izmir ADB,Sun Express,---,Fri
+2024_07_05,20240705EJU5106,ARR,EJU5106,13:45 Uhr,arrived,13:30 Uhr,AGP,EJU,Malaga,easyJet Europe,---,Fri
+2024_07_05,20240705FR 354,ARR,FR 354,13:45 Uhr,diverted,12:42 Uhr,PFO,FR,Paphos,Ryanair,---,Fri
+2024_07_05,20240705KL 1777,ARR,KL 1777,13:45 Uhr,arrived,13:51 Uhr,AMS,KL,Amsterdam,KLM Royal Dutch Airlines,---,Fri
+2024_07_05,20240705EW 8673,ARR,EW 8673,13:50 Uhr,arrived,14:14 Uhr,RHO,EW,Rhodos,Eurowings,---,Fri
+2024_07_05,20240705LH 184,ARR,LH 184,13:55 Uhr,arrived,13:49 Uhr,FRA,LH,Frankfurt,Lufthansa,---,Fri
+2024_07_05,20240705LX 966,ARR,LX 966,13:55 Uhr,arrived,14:34 Uhr,ZRH,LX,Zürich,Swiss,---,Fri
+2024_07_05,20240705QR 081,ARR,QR 081,13:55 Uhr,arrived,13:35 Uhr,DOH,QR,Doha,Qatar Airways,---,Fri
+2024_07_05,202407055F 611,ARR,5F 611,14:00 Uhr,arrived,14:03 Uhr,RMO,FIA,Chisinau,FlyOne,---,Fri
+2024_07_05,20240705FR 3669,ARR,FR 3669,14:05 Uhr,arrived,13:57 Uhr,DUB,FR,Dublin,Ryanair,---,Fri
+2024_07_05,20240705TK 1725,ARR,TK 1725,14:10 Uhr,arrived,15:44 Uhr,IST,TK,Istanbul Airport,Turkish Airlines,---,Fri
+2024_07_05,20240705OS 229,ARR,OS 229,14:20 Uhr,arrived,14:37 Uhr,VIE,OS,Wien,Austrian Airlines,---,Fri
+2024_07_05,20240705SK 1677,ARR,SK 1677,14:25 Uhr,arrived,14:25 Uhr,CPH,SK,Kopenhagen,SAS-Scandinavian Airlines System,---,Fri
+2024_07_05,20240705FR 315,ARR,FR 315,14:30 Uhr,arrived,14:52 Uhr,OTP,FR,Bukarest,Ryanair,---,Fri
+2024_07_05,20240705EJU7174,ARR,EJU7174,14:35 Uhr,arrived,14:09 Uhr,BCN,EJU,Barcelona,easyJet Europe,---,Fri
+2024_07_05,20240705EJU5142,ARR,EJU5142,14:40 Uhr,arrived,14:32 Uhr,BOD,EJU,Bordeaux Merignac,easyJet Europe,---,Fri
+2024_07_05,20240705AF 1234,ARR,AF 1234,14:45 Uhr,arrived,14:30 Uhr,CDG,AF,Paris CDG,Air France,---,Fri
+2024_07_05,20240705EW 2008,ARR,EW 2008,14:50 Uhr,arrived,15:47 Uhr,STR,EW,Stuttgart,Eurowings,LH5389,Fri
+2024_07_05,20240705FR 035,ARR,FR 035,14:55 Uhr,arrived,14:39 Uhr,BUD,FR,Budapest,Ryanair,---,Fri
+2024_07_05,20240705XC 3557,ARR,XC 3557,14:55 Uhr,arrived,15:09 Uhr,ADB,CAI,Izmir ADB,Corendon Airlines,---,Fri
+2024_07_05,20240705BT 821,ARR,BT 821,15:00 Uhr,arrived,15:07 Uhr,TLL,BT,Tallinn,Air Baltic,TP6442 A33239,Fri
+2024_07_05,20240705EW 5383,ARR,EW 5383,15:00 Uhr,arrived,15:02 Uhr,HER,EW,Heraklion,Eurowings,---,Fri
+2024_07_05,20240705LX 968,ARR,LX 968,15:00 Uhr,arrived,15:04 Uhr,ZRH,LX,Zürich,Swiss,---,Fri
+2024_07_05,20240705VY 1886,ARR,VY 1886,15:00 Uhr,arrived,14:48 Uhr,BCN,VY,Barcelona,Vueling Airlines,---,Fri
+2024_07_05,20240705EJU5144,ARR,EJU5144,15:05 Uhr,arrived,14:58 Uhr,NCE,EJU,Nizza,easyJet Europe,---,Fri
+2024_07_05,20240705LH 1942,ARR,LH 1942,15:05 Uhr,arrived,16:51 Uhr,MUC,LH,München,Lufthansa,---,Fri
+2024_07_05,20240705MS 731,ARR,MS 731,15:10 Uhr,arrived,15:18 Uhr,CAI,MS,Kairo,Egypt Air,---,Fri
+2024_07_05,20240705D8 4505,ARR,D8 4505,15:15 Uhr,arrived,16:06 Uhr,ARN,D8,Stockholm ARN,Norwegian Air Sweden AOC,---,Fri
+2024_07_05,20240705FR 009,ARR,FR 009,15:15 Uhr,arrived,15:25 Uhr,MXP,FR,Mailand MXP,Ryanair,---,Fri
+2024_07_05,20240705TO 3410,ARR,TO 3410,15:15 Uhr,arrived,15:35 Uhr,NTE,TO,Nantes,Transavia France,---,Fri
+2024_07_05,20240705FR 1579,ARR,FR 1579,15:20 Uhr,arrived,15:54 Uhr,TGD,FR,Podgorica,Ryanair,---,Fri
+2024_07_05,20240705PC 977,ARR,PC 977,15:25 Uhr,arrived,18:19 Uhr,SAW,PC,Istanbul SAW,Pegasus Airlines,---,Fri
+2024_07_05,20240705EW 9042,ARR,EW 9042,15:40 Uhr,arrived,15:36 Uhr,DUS,EW,Düsseldorf,Eurowings,---,Fri
+2024_07_05,20240705TK 3241,ARR,TK 3241,15:40 Uhr,arrived,16:11 Uhr,IST,TK,Istanbul Airport,Turkish Airlines,---,Fri
+2024_07_05,20240705FR 147,ARR,FR 147,15:45 Uhr,arrived,15:31 Uhr,STN,FR,London STN,Ryanair,---,Fri
+2024_07_05,20240705FB 319,ARR,FB 319,15:55 Uhr,arrived,16:43 Uhr,SOF,FB,Sofia,Bulgaria Air,---,Fri
+2024_07_05,20240705EZY2933,ARR,EZY2933,16:00 Uhr,arrived,15:39 Uhr,BRS,U2,Bristol,easyJet UK,---,Fri
+2024_07_05,20240705BA 8493,ARR,BA 8493,16:05 Uhr,arrived,16:59 Uhr,LCY,BA,London City Airport,British Airways,---,Fri
+2024_07_05,20240705LH 1944,ARR,LH 1944,16:05 Uhr,arrived,17:13 Uhr,MUC,LH,München,Lufthansa,---,Fri
+2024_07_05,20240705BA 984,ARR,BA 984,16:10 Uhr,arrived,16:22 Uhr,LHR,BA,London LHR,British Airways,---,Fri
+2024_07_05,20240705OS 231,ARR,OS 231,16:10 Uhr,cancelled, --:-- Uhr,VIE,OS,Wien,Austrian Airlines,---,Fri
+2024_07_05,20240705EJU5286,ARR,EJU5286,16:15 Uhr,arrived,18:23 Uhr,AMS,EJU,Amsterdam,easyJet Europe,---,Fri
+2024_07_05,20240705EJU5214,ARR,EJU5214,16:25 Uhr,arrived,16:16 Uhr,SPU,EJU,Split,easyJet Europe,---,Fri
+2024_07_05,20240705TP 532,ARR,TP 532,16:30 Uhr,arrived,16:13 Uhr,LIS,TP,Lissabon,TAP Air Portugal,---,Fri
+2024_07_05,20240705FR 217,ARR,FR 217,16:35 Uhr,arrived,16:47 Uhr,PMI,FR,Palma de Mallorca,Ryanair,---,Fri
+2024_07_05,20240705XQ 660,ARR,XQ 660,16:35 Uhr,arrived,16:55 Uhr,AYT,XQ,Antalya,Sun Express,---,Fri
+2024_07_05,20240705EJU5078,ARR,EJU5078,16:40 Uhr,arrived,19:25 Uhr,CTA,EJU,Catania,easyJet Europe,---,Fri
+2024_07_05,20240705EW 8005,ARR,EW 8005,16:40 Uhr,arrived,16:40 Uhr,STR,EW,Stuttgart,Eurowings,LH5397,Fri
+2024_07_05,20240705KL 1779,ARR,KL 1779,16:40 Uhr,arrived,16:29 Uhr,AMS,KL,Amsterdam,KLM Royal Dutch Airlines,---,Fri
+2024_07_05,20240705A3 512,ARR,A3 512,16:50 Uhr,arrived,16:38 Uhr,SKG,A3,Thessaloniki,Aegean Airlines,---,Fri
+2024_07_05,20240705LH 190,ARR,LH 190,16:55 Uhr,arrived,16:46 Uhr,FRA,LH,Frankfurt,Lufthansa,---,Fri
+2024_07_05,20240705TO 3406,ARR,TO 3406,16:55 Uhr,arrived,16:50 Uhr,ORY,TO,Paris Orly,Transavia France,---,Fri
+2024_07_05,20240705FH 1281,ARR,FH 1281,17:00 Uhr,arrived,17:43 Uhr,AYT,FHY,Antalya,Freebird Airlines,---,Fri
+2024_07_05,20240705AF 1834,ARR,AF 1834,17:05 Uhr,arrived,17:56 Uhr,CDG,AF,Paris CDG,Air France,---,Fri
+2024_07_05,20240705LH 1946,ARR,LH 1946,17:05 Uhr,arrived,17:06 Uhr,MUC,LH,München,Lufthansa,---,Fri
+2024_07_05,20240705D8 3302,ARR,D8 3302,17:10 Uhr,arrived,17:45 Uhr,CPH,D8,Kopenhagen,Norwegian Air Sweden AOC,---,Fri
+2024_07_05,20240705EW 8045,ARR,EW 8045,17:10 Uhr,arrived,17:12 Uhr,DUS,EW,Düsseldorf,Eurowings,---,Fri
+2024_07_05,20240705EZY3261,ARR,EZY3261,17:10 Uhr,arrived,17:14 Uhr,EDI,U2,Edinburgh,easyJet UK,---,Fri
+2024_07_05,20240705FR 227,ARR,FR 227,17:10 Uhr,arrived,17:09 Uhr,PMI,FR,Palma de Mallorca,Ryanair,---,Fri
+2024_07_05,20240705FR 9955,ARR,FR 9955,17:10 Uhr,arrived,17:07 Uhr,PSA,FR,Pisa,Ryanair,---,Fri
+2024_07_05,20240705EW 8427,ARR,EW 8427,17:15 Uhr,arrived,17:05 Uhr,NCE,EW,Nizza,Eurowings,---,Fri
+2024_07_05,20240705EZY3161,ARR,EZY3161,17:15 Uhr,arrived,18:12 Uhr,GLA,U2,Glasgow,easyJet UK,---,Fri
+2024_07_05,20240705AY 1437,ARR,AY 1437,17:20 Uhr,arrived,17:08 Uhr,HEL,AY,Helsinki,Finnair,---,Fri
+2024_07_05,20240705EW 006,ARR,EW 006,17:20 Uhr,arrived,17:23 Uhr,CGN,EW,Köln/Bonn,Eurowings,---,Fri
+2024_07_05,20240705EJU5056,ARR,EJU5056,17:25 Uhr,arrived,17:26 Uhr,OLB,EJU,Olbia,easyJet Europe,---,Fri
+2024_07_05,20240705EW 8231,ARR,EW 8231,17:25 Uhr,arrived,17:19 Uhr,HEL,EW,Helsinki,Eurowings,---,Fri
+2024_07_05,20240705BJ 232,ARR,BJ 232,17:45 Uhr,arrived,18:07 Uhr,TUN,BJ,Tunis,Nouvelair Tunisie,---,Fri
+2024_07_05,20240705OS 233,ARR,OS 233,17:45 Uhr,arrived,17:49 Uhr,VIE,OS,Wien,Austrian Airlines,---,Fri
+2024_07_05,20240705TK 1723,ARR,TK 1723,17:45 Uhr,arrived,18:26 Uhr,IST,TK,Istanbul Airport,Turkish Airlines,---,Fri
+2024_07_05,20240705FR 2945,ARR,FR 2945,17:55 Uhr,arrived,18:10 Uhr,OPO,FR,Porto,Ryanair,---,Fri
+2024_07_05,20240705LH 192,ARR,LH 192,17:55 Uhr,arrived,18:06 Uhr,FRA,LH,Frankfurt,Lufthansa,---,Fri
+2024_07_05,20240705LX 970,ARR,LX 970,17:55 Uhr,arrived,17:54 Uhr,ZRH,LX,Zürich,Swiss,---,Fri
+2024_07_05,20240705OR 9505,ARR,OR 9505,17:55 Uhr,arrived,18:31 Uhr,AMS,OR,Amsterdam,TUI fly,---,Fri
+2024_07_05,20240705SN 2587,ARR,SN 2587,17:55 Uhr,arrived,17:41 Uhr,BRU,SN,Brüssel,Brussels Airlines,---,Fri
+2024_07_05,20240705EJU5054,ARR,EJU5054,18:00 Uhr,arrived,18:09 Uhr,NAP,EJU,Neapel,easyJet Europe,---,Fri
+2024_07_05,20240705KL 1781,ARR,KL 1781,18:00 Uhr,arrived,17:52 Uhr,AMS,KL,Amsterdam,KLM Royal Dutch Airlines,---,Fri
+2024_07_05,20240705PC 5007,ARR,PC 5007,18:00 Uhr,arrived,19:20 Uhr,AYT,PC,Antalya,Pegasus Airlines,---,Fri
+2024_07_05,20240705VF 509,ARR,VF 509,18:00 Uhr,arrived,20:10 Uhr,ESB,VF,Ankara ESB,Ajet,---,Fri
+2024_07_05,20240705AF 1534,ARR,AF 1534,18:05 Uhr,arrived,18:15 Uhr,CDG,AF,Paris CDG,Air France,---,Fri
+2024_07_05,20240705FR 1155,ARR,FR 1155,18:05 Uhr,arrived,18:00 Uhr,MAN,FR,Manchester,Ryanair,---,Fri
+2024_07_05,20240705FR 3312,ARR,FR 3312,18:05 Uhr,arrived,18:02 Uhr,BGY,FR,Mailand BGY,Ryanair,---,Fri
+2024_07_05,20240705EW 4342,ARR,EW 4342,18:15 Uhr,arrived,18:05 Uhr,SZG,EW,Salzburg,Eurowings,---,Fri
+2024_07_05,20240705FR 209,ARR,FR 209,18:15 Uhr,arrived,18:21 Uhr,IBZ,FR,Ibiza,Ryanair,---,Fri
+2024_07_05,20240705LO 389,ARR,LO 389,18:20 Uhr,arrived,18:50 Uhr,WAW,LO,Warschau,LOT Polish Airlines,---,Fri
+2024_07_05,20240705FR 3465,ARR,FR 3465,18:25 Uhr,cancelled, --:-- Uhr,VCE,FR,Venedig,Ryanair,---,Fri
+2024_07_05,20240705EJU5072,ARR,EJU5072,18:35 Uhr,arrived,18:33 Uhr,LIN,EJU,Mailand LIN,easyJet Europe,---,Fri
+2024_07_05,20240705EW 9040,ARR,EW 9040,18:40 Uhr,arrived,18:43 Uhr,DUS,EW,Düsseldorf,Eurowings,---,Fri
+2024_07_05,20240705EJU5216,ARR,EJU5216,18:45 Uhr,arrived,18:29 Uhr,SPU,EJU,Split,easyJet Europe,---,Fri
+2024_07_05,20240705EW 8581,ARR,EW 8581,18:45 Uhr,arrived,18:59 Uhr,PMI,EW,Palma de Mallorca,Eurowings,---,Fri
+2024_07_05,20240705EW 8071,ARR,EW 8071,18:50 Uhr,arrived,19:54 Uhr,CGN,EW,Köln/Bonn,Eurowings,---,Fri
+2024_07_05,20240705LH 194,ARR,LH 194,18:55 Uhr,arrived,19:03 Uhr,FRA,LH,Frankfurt,Lufthansa,---,Fri
+2024_07_05,20240705LX 982,ARR,LX 982,18:55 Uhr,arrived,19:08 Uhr,ZRH,LX,Zürich,Swiss,---,Fri
+2024_07_05,20240705OS 235,ARR,OS 235,18:55 Uhr,arrived,18:46 Uhr,VIE,OS,Wien,Austrian Airlines,---,Fri
+2024_07_05,20240705AY 1435,ARR,AY 1435,19:00 Uhr,arrived,18:45 Uhr,HEL,AY,Helsinki,Finnair,---,Fri
+2024_07_05,20240705BT 213,ARR,BT 213,19:00 Uhr,arrived,18:52 Uhr,RIX,BT,Riga,Air Baltic,A33272 JU7660,Fri
+2024_07_05,20240705EJU5080,ARR,EJU5080,19:05 Uhr,arrived,18:56 Uhr,FCO,EJU,Rom FCO,easyJet Europe,---,Fri
+2024_07_05,20240705I2 3672,ARR,I2 3672,19:05 Uhr,arrived,18:48 Uhr,MAD,IBS,Madrid,IBERIA Express,---,Fri
+2024_07_05,20240705LH 1952,ARR,LH 1952,19:05 Uhr,cancelled, --:-- Uhr,MUC,LH,München,Lufthansa,---,Fri
+2024_07_05,20240705EW 2020,ARR,EW 2020,19:10 Uhr,arrived,19:31 Uhr,STR,EW,Stuttgart,Eurowings,---,Fri
+2024_07_05,20240705FR 031,ARR,FR 031,19:10 Uhr,arrived,20:16 Uhr,HER,FR,Heraklion,Ryanair,---,Fri
+2024_07_05,20240705JU 356,ARR,JU 356,19:10 Uhr,arrived,19:38 Uhr,BEG,JU,Belgrad,Air Serbia,---,Fri
+2024_07_05,20240705DX 125,ARR,DX 125,19:15 Uhr,arrived,19:16 Uhr,SCN,DX,Saarbrücken,Danish Air Transport,---,Fri
+2024_07_05,20240705FR 137,ARR,FR 137,19:15 Uhr,arrived,20:06 Uhr,BLQ,FR,Bologna,Ryanair,---,Fri
+2024_07_05,20240705SM 2960,ARR,SM 2960,19:30 Uhr,arrived,19:22 Uhr,HRG,SM,Hurghada,Air Cairo,---,Fri
+2024_07_05,20240705A3 822,ARR,A3 822,19:35 Uhr,arrived,20:02 Uhr,ATH,A3,Athen,Aegean Airlines,---,Fri
+2024_07_05,20240705DY 1108,ARR,DY 1108,19:35 Uhr,arrived,20:12 Uhr,OSL,DY,Oslo,Norwegian Air Shuttle AOC,---,Fri
+2024_07_05,20240705EJU7335,ARR,EJU7335,19:35 Uhr,arrived,20:20 Uhr,PMI,EJU,Palma de Mallorca,easyJet Europe,---,Fri
+2024_07_05,20240705OU 4408,ARR,OU 4408,19:35 Uhr,arrived,20:26 Uhr,ZAG,OU,Zagreb,Croatia Airlines,---,Fri
+2024_07_05,20240705LX 978,ARR,LX 978,19:45 Uhr,cancelled, --:-- Uhr,ZRH,LX,Zürich,Swiss,---,Fri
+2024_07_05,20240705EJU4633,ARR,EJU4633,20:10 Uhr,arrived,21:01 Uhr,CDG,EJU,Paris CDG,easyJet Europe,---,Fri
+2024_07_05,20240705OS 237,ARR,OS 237,20:10 Uhr,arrived,20:00 Uhr,VIE,OS,Wien,Austrian Airlines,---,Fri
+2024_07_05,20240705BA 986,ARR,BA 986,20:15 Uhr,arrived,20:27 Uhr,LHR,BA,London LHR,British Airways,---,Fri
+2024_07_05,20240705FR 2528,ARR,FR 2528,20:20 Uhr,arrived,20:18 Uhr,MAD,FR,Madrid,Ryanair,---,Fri
+2024_07_05,20240705FR 5418,ARR,FR 5418,20:20 Uhr,arrived,20:04 Uhr,DUB,FR,Dublin,Ryanair,---,Fri
+2024_07_05,20240705LG 9473,ARR,LG 9473,20:25 Uhr,arrived,20:56 Uhr,LUX,LG,Luxemburg,Luxair,---,Fri
+2024_07_05,20240705XQ 662,ARR,XQ 662,20:25 Uhr,arrived,20:38 Uhr,AYT,XQ,Antalya,Sun Express,---,Fri
+2024_07_05,20240705DY 1120,ARR,DY 1120,20:30 Uhr,arrived,20:14 Uhr,TRD,DY,Trondheim,Norwegian Air Shuttle AOC,---,Fri
+2024_07_05,20240705EJU5146,ARR,EJU5146,20:30 Uhr,arrived,20:22 Uhr,NCE,EJU,Nizza,easyJet Europe,---,Fri
+2024_07_05,20240705XQ 664,ARR,XQ 664,20:35 Uhr,arrived,20:32 Uhr,AYT,XQ,Antalya,Sun Express,---,Fri
+2024_07_05,20240705EJU5010,ARR,EJU5010,20:45 Uhr,arrived,20:42 Uhr,CHQ,EJU,Chania,easyJet Europe,---,Fri
+2024_07_05,20240705FR 135,ARR,FR 135,20:45 Uhr,arrived,21:23 Uhr,FCO,FR,Rom FCO,Ryanair,---,Fri
+2024_07_05,20240705EW 4608,ARR,EW 4608,20:55 Uhr,arrived,21:02 Uhr,ARN,EW,Stockholm ARN,Eurowings,LH5343,Fri
+2024_07_05,20240705EZY2603,ARR,EZY2603,20:55 Uhr,arrived,20:36 Uhr,LTN,U2,London LTN,easyJet UK,---,Fri
+2024_07_05,20240705FR 258,ARR,FR 258,20:55 Uhr,arrived,21:29 Uhr,ALC,FR,Alicante,Ryanair,---,Fri
+2024_07_05,20240705LH 200,ARR,LH 200,20:55 Uhr,arrived,21:33 Uhr,FRA,LH,Frankfurt,Lufthansa,---,Fri
+2024_07_05,20240705SK 2679,ARR,SK 2679,21:00 Uhr,arrived,20:53 Uhr,ARN,SK,Stockholm ARN,SAS-Scandinavian Airlines System,---,Fri
+2024_07_05,20240705EI 336,ARR,EI 336,21:05 Uhr,arrived,20:43 Uhr,DUB,EI,Dublin,Aer Lingus,---,Fri
+2024_07_05,20240705LH 1960,ARR,LH 1960,21:05 Uhr,arrived,21:43 Uhr,MUC,LH,München,Lufthansa,---,Fri
+2024_07_05,20240705TK 1727,ARR,TK 1727,21:05 Uhr,arrived,21:25 Uhr,IST,TK,Istanbul Airport,Turkish Airlines,---,Fri
+2024_07_05,20240705EW 8007,ARR,EW 8007,21:10 Uhr,arrived,21:10 Uhr,STR,EW,Stuttgart,Eurowings,LH5399,Fri
+2024_07_05,20240705FR 1571,ARR,FR 1571,21:10 Uhr,arrived,21:41 Uhr,VNO,FR,Vilnius,Ryanair,---,Fri
+2024_07_05,20240705W4 6071,ARR,W4 6071,21:10 Uhr,arrived,21:05 Uhr,FCO,W4,Rom FCO,Wizz Air Malta,---,Fri
+2024_07_05,20240705BA 8495,ARR,BA 8495,21:15 Uhr,arrived,20:57 Uhr,LCY,BA,London City Airport,British Airways,---,Fri
+2024_07_05,20240705EJU5212,ARR,EJU5212,21:15 Uhr,arrived,22:59 Uhr,PUY,EJU,Pula,easyJet Europe,---,Fri
+2024_07_05,20240705VY 1884,ARR,VY 1884,21:15 Uhr,arrived,21:16 Uhr,BCN,VY,Barcelona,Vueling Airlines,---,Fri
+2024_07_05,20240705W4 5105,ARR,W4 5105,21:15 Uhr,arrived,22:34 Uhr,TIA,W4,Tirana,Wizz Air Malta,---,Fri
+2024_07_05,20240705FR 352,ARR,FR 352,21:25 Uhr,arrived,21:26 Uhr,RHO,FR,Rhodos,Ryanair,---,Fri
+2024_07_05,20240705LH 044,ARR,LH 044,21:25 Uhr,arrived,21:39 Uhr,FRA,LH,Frankfurt,Lufthansa,---,Fri
+2024_07_05,20240705EW 8753,ARR,EW 8753,21:30 Uhr,arrived,21:14 Uhr,VIE,EW,Wien,Eurowings,---,Fri
+2024_07_05,20240705D8 3304,ARR,D8 3304,21:35 Uhr,arrived,21:56 Uhr,CPH,D8,Kopenhagen,Norwegian Air Sweden AOC,---,Fri
+2024_07_05,20240705FR 263,ARR,FR 263,21:45 Uhr,arrived,21:50 Uhr,PMI,FR,Palma de Mallorca,Ryanair,---,Fri
+2024_07_05,20240705LO 391,ARR,LO 391,21:50 Uhr,arrived,21:46 Uhr,WAW,LO,Warschau,LOT Polish Airlines,---,Fri
+2024_07_05,20240705EW 8763,ARR,EW 8763,21:55 Uhr,arrived,21:37 Uhr,ZRH,EW,Zürich,Eurowings,---,Fri
+2024_07_05,20240705EZY2201,ARR,EZY2201,21:55 Uhr,arrived,22:17 Uhr,MAN,U2,Manchester,easyJet UK,---,Fri
+2024_07_05,20240705FR 2376,ARR,FR 2376,22:00 Uhr,arrived,21:47 Uhr,EDI,FR,Edinburgh,Ryanair,---,Fri
+2024_07_05,20240705KL 1785,ARR,KL 1785,22:00 Uhr,arrived,22:08 Uhr,AMS,KL,Amsterdam,KLM Royal Dutch Airlines,---,Fri
+2024_07_05,20240705FR 149,ARR,FR 149,22:05 Uhr,arrived,22:02 Uhr,BCN,FR,Barcelona,Ryanair,---,Fri
+2024_07_05,20240705FR 1577,ARR,FR 1577,22:10 Uhr,arrived,22:31 Uhr,CTA,FR,Catania,Ryanair,---,Fri
+2024_07_05,20240705OS 239,ARR,OS 239,22:10 Uhr,arrived,22:07 Uhr,VIE,OS,Wien,Austrian Airlines,---,Fri
+2024_07_05,20240705EJU5154,ARR,EJU5154,22:15 Uhr,arrived,22:16 Uhr,ORY,EJU,Paris Orly,easyJet Europe,---,Fri
+2024_07_05,20240705SN 2591,ARR,SN 2591,22:15 Uhr,arrived,22:14 Uhr,BRU,SN,Brüssel,Brussels Airlines,---,Fri
+2024_07_05,20240705TP 534,ARR,TP 534,22:20 Uhr,arrived,22:39 Uhr,LIS,TP,Lissabon,TAP Air Portugal,---,Fri
+2024_07_05,20240705EJU5122,ARR,EJU5122,22:25 Uhr,arrived,22:21 Uhr,PMI,EJU,Palma de Mallorca,easyJet Europe,---,Fri
+2024_07_05,20240705EJU5268,ARR,EJU5268,22:25 Uhr,arrived,22:26 Uhr,CPH,EJU,Kopenhagen,easyJet Europe,---,Fri
+2024_07_05,20240705EJU8627,ARR,EJU8627,22:25 Uhr,arrived,22:51 Uhr,LGW,EJU,London LGW,easyJet Europe,---,Fri
+2024_07_05,20240705FR 2536,ARR,FR 2536,22:25 Uhr,arrived,23:23 Uhr,KRK,FR,Krakau,Ryanair,---,Fri
+2024_07_05,20240705LH 202,ARR,LH 202,22:25 Uhr,arrived,22:43 Uhr,FRA,LH,Frankfurt,Lufthansa,---,Fri
+2024_07_05,20240705SR 151,ARR,SR 151,22:25 Uhr,arrived,22:04 Uhr,BEY,SDR,Beirut,SUNDAIR,---,Fri
+2024_07_05,20240705BA 988,ARR,BA 988,22:35 Uhr,arrived,23:58 Uhr,LHR,BA,London LHR,British Airways,---,Fri
+2024_07_05,20240705EJU5184,ARR,EJU5184,22:35 Uhr,arrived,23:00 Uhr,GVA,EJU,Genf,easyJet Europe,---,Fri
+2024_07_05,20240705FR 139,ARR,FR 139,22:35 Uhr,arrived,23:06 Uhr,VLC,FR,Valencia,Ryanair,---,Fri
+2024_07_05,20240705LH 1962,ARR,LH 1962,22:35 Uhr,arrived,23:12 Uhr,MUC,LH,München,Lufthansa,---,Fri
+2024_07_05,20240705SR 4853,ARR,SR 4853,22:40 Uhr,arrived,22:12 Uhr,RHO,SDR,Rhodos,SUNDAIR,---,Fri
+2024_07_05,20240705AF 1134,ARR,AF 1134,22:45 Uhr,arrived,22:56 Uhr,CDG,AF,Paris CDG,Air France,---,Fri
+2024_07_05,20240705EJU5086,ARR,EJU5086,22:45 Uhr,arrived,23:09 Uhr,VCE,EJU,Venedig,easyJet Europe,---,Fri
+2024_07_05,20240705EJU5188,ARR,EJU5188,22:45 Uhr,arrived,22:55 Uhr,ZRH,EJU,Zürich,easyJet Europe,---,Fri
+2024_07_05,20240705EJU5288,ARR,EJU5288,22:50 Uhr,arrived,23:29 Uhr,AMS,EJU,Amsterdam,easyJet Europe,---,Fri
+2024_07_05,20240705EW 8221,ARR,EW 8221,22:55 Uhr,arrived,22:47 Uhr,GOT,EW,Göteborg GOT,Eurowings,---,Fri
+2024_07_05,20240705LX 962,ARR,LX 962,22:55 Uhr,arrived,23:02 Uhr,ZRH,LX,Zürich,Swiss,---,Fri
+2024_07_05,20240705FR 141,ARR,FR 141,23:00 Uhr,arrived,22:49 Uhr,FCO,FR,Rom FCO,Ryanair,---,Fri
+2024_07_05,20240705FR 176,ARR,FR 176,23:00 Uhr,arrived,23:21 Uhr,STN,FR,London STN,Ryanair,---,Fri
+2024_07_05,20240705FR 2733,ARR,FR 2733,23:00 Uhr,arrived,23:09 Uhr,TLL,FR,Tallinn,Ryanair,---,Fri
+2024_07_05,20240705FR 3306,ARR,FR 3306,23:00 Uhr,arrived,23:34 Uhr,BUD,FR,Budapest,Ryanair,---,Fri
+2024_07_05,20240705I2 3674,ARR,I2 3674,23:00 Uhr,arrived,22:41 Uhr,MAD,IBS,Madrid,IBERIA Express,---,Fri
+2024_07_05,20240705TO 3412,ARR,TO 3412,23:10 Uhr,arrived,23:01 Uhr,ORY,TO,Paris Orly,Transavia France,---,Fri
+2024_07_05,20240705EW 8671,ARR,EW 8671,23:15 Uhr,arrived,23:19 Uhr,KGS,EW,Kos,Eurowings,A33966,Fri
+2024_07_05,20240705SR 4451,ARR,SR 4451,23:35 Uhr,arrived,23:05 Uhr,HER,SDR,Heraklion,SUNDAIR,---,Fri
+
