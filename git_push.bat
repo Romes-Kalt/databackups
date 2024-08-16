@@ -7,4 +7,5 @@ git commit -m "%DATE% %TIME% %1"
 git push
 echo "flight_data.csv tail -10"
 tail -10 flight_data.csv
-cat last_run.txt
+grep "München" flight_data.csv | wc -l
+
